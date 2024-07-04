@@ -12,7 +12,7 @@ title                    : "Yimeng Song"
 title_separator          : "-"
 name                     : &name "Yimeng Song"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sym0210.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yimeng Song"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  pronouns         : "he/him/his"  
+  bio              : "Postdoctoral Associate @Yale University"
+  location         : "New Have, CT, US"
+  employer         : "Yale University"
+  uri              : "https://bell-lab.yale.edu/people/yimeng-song"
   email            : "yimeng.song@yale.edu" 
 
   # Academic websites
