@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yimeng Song"
-  pronouns         : "he/him/his"  
+  pronouns         : # "he/him/his"  
   bio              : "Postdoctoral Associate @Yale University"
   location         : "New Have, CT, US"
   employer         : "Yale University"
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9558-1220"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=yimeng+song"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=yimeng+song"
   researchgate     : "https://www.researchgate.net/profile/Yimeng-Song"
 
   # Repositories and software development
@@ -49,7 +49,7 @@ author:
 
   # Social media
   bluesky          : # Username
-  facebook         : "Yimeng Song"
+  facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
