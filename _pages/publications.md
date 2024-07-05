@@ -10,7 +10,7 @@ author_profile: true
 ### 2024
 
 - Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B.M., Stewart, R., Choi, H. M., Bell, M.L. (2024). A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice. *Environmental Research*, 119550. [Link](https://doi.org/10.1016/j.envres.2024.119550)
-- **Song, Y.**<sup>*</sup>, Wu, S., Chen, B., & Bell, M. L. (2024). Unraveling near real-time spatial dynamics of population using geographical ensemble learning. *International Journal of Applied Earth Observation and Geoinformation*, *130*, 103882. [Link](https://doi.org/10.1016/j.jag.2024.103882)
+- **Song, Y.** <sup>*</sup>, Wu, S., Chen, B., & Bell, M. L. (2024). Unraveling near real-time spatial dynamics of population using geographical ensemble learning. *International Journal of Applied Earth Observation and Geoinformation*, *130*, 103882. [Link](https://doi.org/10.1016/j.jag.2024.103882)
 - Ferrari, A. J., Santomauro, D. F., Aali, A., ...**Song, Y.**, ... Vos, T., & Murray, C. J. L. (2024). Global incidence, prevalence, years lived with disability (YLDs), disability-adjusted life-years (DALYs), and healthy life expectancy (HALE) for 371 diseases and injuries in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021. *The Lancet*, *403*(10440), 2133-2161. [Link](https://doi.org/10.1016/S0140-6736(24)00757-8).
 - Naghavi, M., Ong, K. L., Aali, A., ... **Song, Y.**, ... Wool, E. E. & Murray, C. J. L. (2024). Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021. *The Lancet*, *403*(10440), 2100-2132. [Link](https://doi.org/10.1016/S0140-6736(24)00367-2)
 - Bhattacharjee, N. V., Schumacher, A. E., Aali, A., ... **Song, Y.**, ... Murray, C. J. L., Smith, A. E., & Vollset, S. E. (2024). Global fertility in 204 countries and territories, 1950–2021, with forecasts to 2100: a comprehensive demographic analysis for the Global Burden of Disease Study 2021. *The Lancet*, *403*(10440), 2057-2099. [Link](https://doi.org/10.1016/S0140-6736(24)00550-6)
@@ -34,7 +34,7 @@ author_profile: true
 ### 2022
 
 - Ikuta, K. S., Swetschinski, L. R., Aguilar, G. R., ... **Song, Y.**, ... Murray, C. J. L. N. & Mohsen N. (2022). Global mortality associated with 33 bacterial pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019.*The Lancet*. *400*(10369), 2221-2248. [Link](https://doi.org/10.1016/S0140-6736(22)02185-7).
-- **Song, Y.**<sup>*</sup>, Xu Y., Chen, B., He, Q., Tu, Y., Wang, F., & Cai, C. (2022). Dynamic population mapping with AutoGluon. *Urban Informatics*, *1*(1), 13. [Link](https://doi.org/10.1007/s44212-022-00017-x).
+- **Song, Y.** <sup>*</sup>, Xu Y., Chen, B., He, Q., Tu, Y., Wang, F., & Cai, C. (2022). Dynamic population mapping with AutoGluon. *Urban Informatics*, *1*(1), 13. [Link](https://doi.org/10.1007/s44212-022-00017-x).
 - Kyu, H. H., Vongpradith, A., Sirota, S. B., ... **Song, Y.**, ... & Murray, C. J. L. (2022). Age–sex differences in the global burden of lower respiratory infections and risk factors, 1990–2019: results from the Global Burden of Disease Study 2019. *The Lancet Infectious Diseases*, *22*(11), 1626-1647. [Link](https://doi.org/10.1016/S1473-3099(22)00510-2)
 - Tran, K. B., Lang, J. J., Compton, K., … **Song, Y.**, ... Force, L. M., & Murray, C. J. L. (2022). The global burden of cancer attributable to risk factors, 2010–19: a systematic analysis for the Global Burden of Disease Study 2019.*The Lancet*, *400*(10352), 563-591. [Link](https://doi.org/10.1016/S0140-6736(22)01438-6).
 - Chen, B., Wu, S., **Song, Y.**, Webster, C., Xu, B., & Gong, P. (2022). Contrasting inequality in human exposure to greenspace between cities of Global North and Global South. *Nature Communications*, *13*, 4636. [Link](https://doi.org/10.1038/s41467-022-32258-4).
@@ -90,4 +90,4 @@ author_profile: true
 
 ### **2017**
 
-- Cai, J., Huang, B., & **Song, Y**<sup>*</sup>. (2017). Using multi-source geospatial big data to identify the structure of polycentric cities. *Remote Sensing of Environment*, *202*, 210-221. [Link](https://doi.org/10.1016/j.rse.2017.06.039).
+- Cai, J., Huang, B., & **Song, Y** <sup>*</sup>. (2017). Using multi-source geospatial big data to identify the structure of polycentric cities. *Remote Sensing of Environment*, *202*, 210-221. [Link](https://doi.org/10.1016/j.rse.2017.06.039).
