@@ -24,10 +24,10 @@ author:
   avatar           : "profile.jpg"
   name             : "Yimeng Song"
   pronouns         : # "he/him/his"  
-  bio              : "Postdoctoral Associate @Yale University"
+  bio              : "Postdoctoral Associate @Yale School of the Environment"
   location         : "New Have, CT, US"
   employer         : "Yale University"
-  uri              : "https://bell-lab.yale.edu/people/yimeng-song"
+  uri              : #"https://bell-lab.yale.edu/people/yimeng-song"
   email            : "yimeng.song@yale.edu" 
 
   # Academic websites
