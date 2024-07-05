@@ -5,18 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-#{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-#{% endif %}
-
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
-
-# Publications
-
 1. He, Q., Ye, T., Wang, W., Luo, M., **Song, Y.**, & Zhang, M. (2023). Spatiotemporally continuous estimates of daily 1-km PM2. 5 concentrations and their long-term exposure in China from 2000 to 2020. Journal of *Environmental Management*, *342*, 118145. [https://doi.org/10.1016/j.jenvman.2023.118145](https://doi.org/10.1016/j.jenvman.2023.118145)
 2. Tu, Y., Chen, B., Yu, L., **Song, Y.**, Wu, S., Li, M., Wei, H., Chen, T., Lang, W., Gong, P. & Xu, B. (2023). Raveling the nexus between urban expansion and cropland loss in China. *Landscape Ecology*, *38*, 1869-1884. [https://doi.org/10.1007/s10980-023-01653-7](https://doi.org/10.1007/s10980-023-01653-7) 
 3. Ho, H.C., **Song, Y.**, Cheng, W., Liu, Y., Guo, Y., Lu, S., Lum, T., Chiu, R.L.H., & Webster. C. (2023). How do forms and characteristics of Asian public housing neighbourhoods affect dementia risk among senior population? A cross-sectional study in Hong Kong. *Public Health*, 219, 44-52. [https://doi.org/10.1016/j.puhe.2023.03.014](https://doi.org/10.1016/j.puhe.2023.03.014)
