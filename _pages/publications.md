@@ -195,23 +195,40 @@ author_profile: true
   <span style="color: #626567;">Liu, L., Song, F., Fang, J., Wei, J., Ho, H. C., **Song, Y.**, Zhang, Y., Wang, L., Hu, C., & Zhang. Y.</span><br>
   <span style="color: darkblue;">*Science of the Total Environment*</span>, *750*, 142347, (2021).<br>
 
-
-- Lu, S., Liu, Y., Guo, Y., Ho, H. C., **Song, Y.**, Cheng, W., Chui, C., Chan, O., Chiu, R. L. H., Webster, C., & Lum, T. Y. (2021). Neighborhood built environment and late-life depression: a multilevel path analysis in a Chinese society. <span style="color: darkblue;">*The Journals of Gerontology: Series B*</span>, *76*(10), 2143-2154. <a href="https://doi.org/10.1093/geronb/gbab037" target="_blank">Link</a>
-- **Song, Y.**, Chen, B., Ho, C., H., Kwan, M. P., Liu, D., Wang, J., Cai, J., Li, X., Xu, Y., He, Q., Wang, H., Xu, Q., & Song, Y. (2021). Observed inequality in urban greenspace exposure in China. <span style="color: darkblue;">*Environment International*</span>, *156*, 106778. <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">Link</a>
-- He, Q., Gao, K., Zhang, L., **Song, Y.**, & Zhang, M. (2021). Satellite-derived 1-km estimates and long-term trends of PMconcentrations in China from 2000 to 2018. <span style="color: darkblue;">*Environment International*</span>, *156,* 106726. <a href="https://doi.org/10.1016/j.envint.2021.106726" target="_blank">Link</a>
-- Zhang, Y., Wei J., Shi Y., Quan C., Ho, H. C., **Song, Y.**, & Zhang, L. (2021). Early-life exposure to submicron particulate air pollution in relation to asthma development in Chinese preschool children. <span style="color: darkblue;">*Journal of Allergy and Clinical Immunology*</span>, *148(3)*, 771-782. <a href="https://doi.org/10.1016/j.jaci.2021.02.030" target="_blank">Link</a>
-- Chen, B., Tu, Y., **Song, Y.**, Theobald, D., Zhang, T., Ren, Z., Li, X., Yang, J., Wang, J., Wang, X., Gong, P., Bai, Y., & Xu, B. (2021). Mapping essential urban land use categories with open big data: Results for five metropolitan areas in the United States of America. <span style="color: darkblue;">*ISPRS Journal of Photogrammetry and Remote Sensing*</span>, *178*, 203-218. <a href="https://doi.org/10.1016/j.isprsjprs.2021.06.010" target="_blank">Link</a>
-- Liu, Y., Lu, S., Guo, Y., Ho, H. C., **Song, Y.**, Cheng, W., Hiu, C., Chui, K., Chan, O., Chiu, R. L. H., Webster, C., & Lum, T. Y. (2021). Longitudinal associations between neighbourhood physical environments and depressive symptoms of older adults in Hong Kong: The moderating effects of terrain slope and declining functional abilities. <span style="color: darkblue;">*Health & Place*</span>, *70*, 102585. <a href="https://doi.org/10.1016/j.healthplace.2021.102585" target="_blank">Link</a>
-- Wu, W., Yao, Y., **Song, Y.**, He, D., & Wang, Y. (2021). Perceived influence of street-level visible greenness exposure in the work and residential environment on life satisfaction: Evidence from China. <span style="color: darkblue;">*Urban Forestry & Urban Greening*</span>, *62*, 127161. <a href="https://doi.org/10.1016/j.ufug.2021.127161" target="_blank">Link</a>
-- Wang, X., Xu, Z., Su, H., Ho, H. C., **Song, Y.**, Zheng, H., Hossain, M., Z., Khan, M., F., Bogale, F., Wei, J., & Cheng, J. (2021). Ambient particulate matter (PM, PM, PM) and childhood pneumonia: The smaller particle, the greater short-term impact? <span style="color: darkblue;">*Science of the Total Environment*</span>, *772*, 145509. <a href="https://doi.org/10.1016/j.scitotenv.2021.145509" target="_blank">Link</a>
-- Lu, S., Liu, Y., Guo, Y., Ho, H. C., **Song, Y.**, Cheng, W., Chui, C., Chan, O. F., Webster, C., Lai, R., Chiu, H., & Lum, T. Y. (2021). Neighbourhood physical environment, intrinsic capacity, and 4-year late-life functional ability trajectories of low-income Chinese older population: A longitudinal study with the parallel process of latent growth curve modelling. <span style="color: darkblue;">*EClinicalMedicine*</span>, *36*, 100927. <a href="https://doi.org/10.1016/j.eclinm.2021.100927" target="_blank">Link</a>
-- Xu, Y., **Song, Y.**<sup>\*</sup>, Cai, J., & Zhu, H.<sup>\*</sup> (2021). Population mapping in China with social user and remote sensing data. <span style="color: darkblue;">*Applied Geography*</span>, *130*, 102450. <a href="https://doi.org/10.1016/j.apgeog.2021.102450" target="_blank">Link</a>
-- He, Q., Zhang, M., **Song, Y.**, & Huang, B. (2021). Spatiotemporal assessment of PM2.5 concentrations and exposure in China from 2013 to 2017 using satellite-derived data. <span style="color: darkblue;">*Journal of Cleaner Production*</span>, *286*, 124965. <a href="https://doi.org/10.1016/j.jclepro.2020.124965" target="_blank">Link</a>
-- Guo, H., Wei, J., Li. X., Ho, H. C., **Song, Y.**, Wu, J., & Li, W. (2021). Do socioeconomic factors modify the effects of PM and SO on lung cancer incidence in China? <span style="color: darkblue;">*Science of the Total Environment*</span>, *756*, 143998. <a href="https://doi.org/10.1016/j.scitotenv.2020.143998" target="_blank">Link</a>
-- Liu, D., Kwan, M. P., Kan, Z. & **Song, Y.** (2021). An integrated analysis of housing and transit affordability in the Chicago metropolitan area. <span style="color: darkblue;">*The Geographical Journal*</span>, *187*(2), 110-126. <a href="https://doi.org/10.1111/geoj.12377" target="_blank">Link</a>
-- Liu, L, Song, F., Fang, J., Wei, J., Ho, H. C., **Song, Y.**, Zhang, Y., Wang, L., Hu, C., & Zhang. Y. (2021). Intraday effects of ambient PM on emergency department visits in Guangzhou, China: a case-crossover study. <span style="color: darkblue;">*Science of the Total Environment*</span>, *750*, 142347. <a href="https://doi.org/10.1016/j.scitotenv.2020.142347" target="_blank">Link</a>
-
 ### **2020**
+
+- <span style="color: #1A5276;">An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China.</span> <a href="https://doi.org/10.1126/science.abb6105" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Tian, H., Liu, Y., Li, Y., Wu, C., Chen, B., Kraemer, M., Li, B., Cai, J., Xu, B., Yang, Q., Wang, B., Yang, P., Cui, Y., **Song, Y.**, Zheng, P., Wang, Q., Bjornstad, O., Yang, R., Grenfell, B., Pybus, O., & Dye, C.</span><br>
+  <span style="color: darkblue;">*Science*</span>, *368*(6491), 638-642, (2020).<br>
+
+- <span style="color: #1A5276;">A novel method to extract urban human settlements by integrating remote sensing and mobile phone locations.</span> <a href="https://doi.org/10.1016/j.srs.2020.100003" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Chen, B.<sup>\#</sup>, **Song, Y.**<sup>\#</sup>, Huang, B., & Xu, B.</span><br>
+  <span style="color: darkblue;">*Science of Remote Sensing*</span>, *1*, 100003, (2020).<br>
+
+- <span style="color: #1A5276;">Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV-2).</span> <a href="https://doi.org/10.1126/science.abb3221" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Li, R., Pei, S., Chen, B., **Song, Y.**, Zhang, T., Yang, W., & Shaman, J.</span><br>
+  <span style="color: darkblue;">*Science*</span>, *368*(6490), 489-493, (2020).<br>
+
+- <span style="color: #1A5276;">Global COVID-19 pandemic demands joint interventions for the suppression of future waves.</span> <a href="https://doi.org/10.1073/pnas.2012002117" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Li, R., Chen, B, Zhang, T., Ren, Z., **Song, Y.**, Xiao, Y., Hou, L., Cai, J., Xu, B., Chan, K. K. Y., Tu, Y., Yang, J., Liu, Z., Shen, C., Wang, C., Xu, L., Liu, Q., Bao, S., Zhang, J., Bai, Y., Deng, K., Zhang, W., Huang, W., Whittington, J. D., Stenseth, N. C., Guan, D., Gong, P., & Xu, B.</span><br>
+  <span style="color: darkblue;">*Proceedings of the National Academy of Sciences*</span>, *117*(42), 26151-26157, (2020).<br>
+
+- <span style="color: #1A5276;">Improved 1 km resolution PM2.5 estimates across China using enhanced space–time extremely randomized trees.</span> <a href="https://doi.org/10.5194/acp-20-3273-2020" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Wei, J., Li, Z., Huang, W., Xue, W., Sun, L., Guo, J., Peng, Y., Li, J., Lyapustine, A, Liu, L., Wu, H., & **Song, Y.**</span><br>
+  <span style="color: darkblue;">*Atmospheric Chemistry and Physics*</span>, *20*(6), 3273-3289, (2020).<br>
+
+- <span style="color: #1A5276;">Mapping essential urban land use categories in China (EULUC-China): Preliminary results for 2018.</span> <a href="https://doi.org/10.1016/j.scib.2019.12.007" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Gong, P., Chen, B., Li, X., Liu, H., …, **Song, Y.**, …, & Xu, B.</span><br>
+  <span style="color: darkblue;">*Science Bulletin*</span>, *65*(3), 182-187, (2020).<br>
+
+- <span style="color: #1A5276;">How does urban expansion impact people's exposure to green environments? A comparative study of 290 Chinese cities.</span> <a href="https://doi.org/10.1016/j.jclepro.2019.119018" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">**Song, Y.**, Chen, B., & Kwan, M. P.</span><br>
+  <span style="color: darkblue;">*Journal of Cleaner Production*</span>, *246*, 119018, (2020).<br>
+
+- <span style="color: #1A5276;">Natural outdoor environment, neighbourhood social cohesion and mental health: Using multilevel structural equation modelling, streetscape and remote-sensing metrics.</span> <a href="https://doi.org/10.1016/j.ufug.2019.126576" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Liu, Y., Wang, R., Lu, Y., Li, Z., Chen, H., Cao, M., Zhang, Y., & **Song, Y.**</span><br>
+  <span style="color: darkblue;">*Urban Forestry & Urban Greening*</span>, *48*, 126576, (2020).<br>
+
 
 - Tian, H., Liu, Y., Li, Y., Wu, C., Chen, B., Kraemer, M., Li, B., Cai, J., Xu, B., Yang, Q., Wang, B., Yang, P., Cui, Y., **Song, Y.**, Zheng, P., Wang, Q., Bjornstad, O., Yang, R., Grenfell, B., Pybus, O., & Dye, C. (2020). An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China. <span style="color: darkblue;">*Science*</span>, *368*(6491), 638-642. <a href="https://doi.org/10.1126/science.abb6105" target="_blank">Link</a>
 - Chen, B.<sup>\#</sup>, **Song, Y.**<sup>\#</sup>, Huang, B., & Xu, B. (2020). A novel method to extract urban human settlements by integrating remote sensing and mobile phone locations. <span style="color: darkblue;">*Science of Remote Sensing*</span>, *1,* 100003. <a href="https://doi.org/10.1016/j.srs.2020.100003" target="_blank">Link</a>
@@ -224,10 +241,39 @@ author_profile: true
 
 ### **2019**
 
+- <span style="color: #1A5276;">Dynamic assessment of PM exposure and health risk using remote sensing and geo-spatial big data.</span> <a href="https://doi.org/10.1016/j.envpol.2019.06.057" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">**Song, Y.**, Huang, B., He, Q., Chen, B., Wei, J., & Mahmood, R.</span><br>
+  <span style="color: darkblue;">*Environmental Pollution*</span>, *253*, 288-296, (2019).<br>
+
+- <span style="color: #1A5276;">Evaluating and characterizing urban vibrancy using spatial big data: Shanghai as a case study.</span> <a href="https://doi.org/10.1177/2399808319828730" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Huang, B., Zhou, Y., Li, Z., **Song, Y.**, Cai, J., & Tu, W.</span><br>
+  <span style="color: darkblue;">*Environment and Planning B: Urban Analytics and City Science*</span>, *47*(9), 1543-1559, (2019).<br>
+
+
 - **Song, Y.**, Huang, B., He, Q., Chen, B., Wei, J., & Mahmood, R. (2019). Dynamic assessment of PM exposure and health risk using remote sensing and geo-spatial big data. <span style="color: darkblue;">*Environmental Pollution*</span>, *253*, 288-296. <a href="https://doi.org/10.1016/j.envpol.2019.06.057" target="_blank">Link</a>
 - Huang, B., Zhou, Y., Li, Z., **Song, Y.**, Cai, J., & Tu, W. (2019). Evaluating and characterizing urban vibrancy using spatial big data: Shanghai as a case study. <span style="color: darkblue;">*Environment and Planning B: Urban Analytics and City Science*</span>, *47*(9), 1543-1559. <a href="https://doi.org/10.1177/2399808319828730" target="_blank">Link</a>
 
 ### **2018**
+
+- <span style="color: #1A5276;">Spatial and temporal variations of spatial population accessibility to public hospitals: A case study of rural-urban comparison.</span> <a href="https://doi.org/10.1080/15481603.2018.1446713" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Song, Y., Tan, Y., **Song, Y.**, Wu, P., Cheng, J. C., Kim, M. J., & Wang, X.</span><br>
+  <span style="color: darkblue;">*GIScience & Remote Sensing*</span>, *55*(5), 718-744, (2018).<br>
+
+- <span style="color: #1A5276;">Urban land-use mapping using a deep convolutional neural network with high spatial resolution multispectral remote sensing imagery.</span> <a href="https://doi.org/10.1016/j.rse.2018.04.050" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Huang, B., Zhao, B., & **Song, Y.**</span><br>
+  <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *214*, 73-86, (2018).<br>
+
+- <span style="color: #1A5276;">Dynamic assessments of population exposure to urban greenspace using multi-source big data.</span> <a href="https://doi.org/10.1016/j.scitotenv.2018.04.061" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">**Song, Y.**, Huang, B., Cai, J., & Chen, B.</span><br>
+  <span style="color: darkblue;">*Science of the Total Environment*</span>, *634*, 1315-1325, (2018).<br>
+
+- <span style="color: #1A5276;">How do people in different places experience different levels of air pollution? Using worldwide Chinese as a lens.</span> <a href="https://doi.org/10.1016/j.envpol.2018.03.093" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Chen, B., **Song, Y.**, Kwan, M. P., Huang, B., & Xu, B.</span><br>
+  <span style="color: darkblue;">*Environmental Pollution*</span>, *238*, 874-883, (2018).<br>
+
+- <span style="color: #1A5276;">Real-time estimation of population exposure to PM2.5 using mobile-and station-based big data.</span> <a href="https://doi.org/10.3390/ijerph15040573" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Chen, B., **Song, Y.**, Jiang, T., Chen, Z., Huang, B., & Xu, B.</span><br>
+  <span style="color: darkblue;">*International Journal of Environmental Research and Public Health*</span>, *15*(4), 573, (2018).<br>
 
 - Song, Y., Tan, Y., **Song, Y.**, Wu, P., Cheng, J. C., Kim, M. J., & Wang, X. (2018). Spatial and temporal variations of spatial population accessibility to public hospitals: A case study of rural-urban comparison. <span style="color: darkblue;">*GIScience & Remote Sensing*</span>, *55*(5), 718-744. <a href="https://doi.org/10.1080/15481603.2018.1446713" target="_blank">Link</a>
 - Huang, B., Zhao, B., & **Song, Y.** (2018). Urban land-use mapping using a deep convolutional neural network with high spatial resolution multispectral remote sensing imagery. <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *214*, 73-86. <a href="https://doi.org/10.1016/j.rse.2018.04.050" target="_blank">Link</a>
@@ -237,4 +283,7 @@ author_profile: true
 
 ### **2017**
 
+- <span style="color: #1A5276;">Using multi-source geospatial big data to identify the structure of polycentric cities.</span> <a href="https://doi.org/10.1016/j.rse.2017.06.039" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Cai, J., Huang, B.<sup>\*</sup>, & **Song, Y**<sup>\*</sup>.</span><br>
+  <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *202*, 210-221, (2017).<br>
 - Cai, J., Huang, B.<sup>\*</sup>, & **Song, Y**<sup>\*</sup>. (2017). Using multi-source geospatial big data to identify the structure of polycentric cities. <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *202*, 210-221. <a href="https://doi.org/10.1016/j.rse.2017.06.039" target="_blank">Link</a>
