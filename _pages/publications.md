@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<div class="gsc_md_hist_b"><span class="gsc_g_t" style="right:195px">2018</span><span class="gsc_g_t" style="right:163px">2019</span><span class="gsc_g_t" style="right:131px">2020</span><span class="gsc_g_t" style="right:99px">2021</span><span class="gsc_g_t" style="right:67px">2022</span><span class="gsc_g_t" style="right:35px">2023</span><span class="gsc_g_t" style="right:3px">2024</span><a href="javascript:void(0)" class="gsc_g_a" style="right:200px;top:158px;height:2px;z-index:7"><span class="gsc_g_al">44</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:168px;top:152px;height:8px;z-index:6"><span class="gsc_g_al">151</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:136px;top:3px;height:157px;z-index:5"><span class="gsc_g_al">2749</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:104px;top:15px;height:145px;z-index:4"><span class="gsc_g_al">2540</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:72px;top:44px;height:116px;z-index:3"><span class="gsc_g_al">2045</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:40px;top:26px;height:134px;z-index:2"><span class="gsc_g_al">2346</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:8px;top:66px;height:94px;z-index:1"><span class="gsc_g_al">1655</span></a></div>
+
 ### •  ***Peer-reviewed Journal Articles***
 
 ### 2024
