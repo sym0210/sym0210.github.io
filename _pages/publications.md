@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2024
 
-- A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice. <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">[Link]</a><br>
+- <span style="color: #641E16;">A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice.</span> <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B.M., Stewart, R., Choi, H. M., Bell, M.L.</span><br>
   <span style="color: darkblue;">*Environmental Research*</span>, 119550, (2014).<br>
   
