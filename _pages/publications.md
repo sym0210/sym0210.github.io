@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 
-
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -136,9 +133,8 @@ author_profile: true
     </script>
 </body>
 </html>
-
-
-
+  
+  
 
 ### •  ***Peer-reviewed Journal Articles***
 
