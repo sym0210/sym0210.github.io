@@ -9,14 +9,14 @@ redirect_from:
 
 Welcome to my personal website. My name is Yimeng SONG, currently a Postdoctoral Associate at Yale. My research interests lie primarily at the intersection of geospatial science (particularly geospatial big data and GeoAI) and environmental health. I received my PhD from The Chinese University of Hong Kong in 2019. Before joining Yale in July 2022, I served as a Research Assistant Professor at The Hong Kong Polytechnic University. 
 
-Education:
+🌏 Education:
 ------
 - 2019: **Ph.D.** Geography and Resource Management, *The Chinese University of Hong Kong*
 - 2018: **Visiting Ph.D. Student**, *University of Illinois at Urbana-Champaign*
 - 2012: **B.A.** Economics, *Peking University*
 - 2012: **B.Eng.** Land Resources Management, *China University of Geosciences (Beijing)*
   
-Appointments:
+🌏 Appointments:🦧
 ------
 - 2022 – now: **Postdoctoral Associate**, *Yale University*<br>
 - 2021 – 2022: **Research Assistant Professor**, *The Hong Kong Polytechnic University*
