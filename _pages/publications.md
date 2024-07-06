@@ -14,7 +14,7 @@ author_profile: true
   <span style="color: darkblue;">*Environmental Research*</span>, 119550, (2014).<br>
   
 - Unraveling near real-time spatial dynamics of population using geographical ensemble learning. <a href="https://doi.org/10.1016/j.jag.2024.103882" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Song, Y.<sup>*</sup>, Wu, S., Chen, B., & Bell, M. L.</span><br>
+  <span style="color: #626567;">**Song, Y.**<sup>\*</sup>, Wu, S., Chen, B., & Bell, M. L.</span><br>
   <span style="color: darkblue;">*International Journal of Applied Earth Observation and Geoinformation*</span>, *130*, 103882, (2024).<br>
 
 - Global incidence, prevalence, years lived with disability (YLDs), disability-adjusted life-years (DALYs), and healthy life expectancy (HALE) for 371 diseases and injuries in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021. <a href="https://doi.org/10.1016/S0140-6736(24)00757-8" target="_blank">[Link]</a><br>
