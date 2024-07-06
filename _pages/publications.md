@@ -114,35 +114,35 @@ author_profile: true
                 <div>700</div>
                 <div>0</div>
             </div>
-            <div class="bar" style="left: 40px; height: 2px;">
+            <div class="bar" style="left: 45px; height: 2px;">
                 <span>44</span>
             </div>
-            <div class="bar" style="left: 90px; height: 8px;">
+            <div class="bar" style="left: 95px; height: 8px;">
                 <span>151</span>
             </div>
-            <div class="bar" style="left: 140px; height: 157px;">
+            <div class="bar" style="left: 145px; height: 157px;">
                 <span>2749</span>
             </div>
-            <div class="bar" style="left: 190px; height: 145px;">
+            <div class="bar" style="left: 195px; height: 145px;">
                 <span>2540</span>
             </div>
-            <div class="bar" style="left: 240px; height: 116px;">
+            <div class="bar" style="left: 245px; height: 116px;">
                 <span>2045</span>
             </div>
-            <div class="bar" style="left: 290px; height: 134px;">
+            <div class="bar" style="left: 295px; height: 134px;">
                 <span>2346</span>
             </div>
-            <div class="bar" style="left: 340px; height: 94px;">
+            <div class="bar" style="left: 345px; height: 94px;">
                 <span>1655</span>
             </div>
             <div class="x-axis">
-                <div style="position: absolute; left: 40px; width: 40px; text-align: center;">2018</div>
-                <div style="position: absolute; left: 90px; width: 40px; text-align: center;">2019</div>
-                <div style="position: absolute; left: 140px; width: 40px; text-align: center;">2020</div>
-                <div style="position: absolute; left: 190px; width: 40px; text-align: center;">2021</div>
-                <div style="position: absolute; left: 240px; width: 40px; text-align: center;">2022</div>
-                <div style="position: absolute; left: 290px; width: 40px; text-align: center;">2023</div>
-                <div style="position: absolute; left: 340px; width: 40px; text-align: center;">2024</div>
+                <div style="position: absolute; left: 40px; width: 30px; text-align: center;">2018</div>
+                <div style="position: absolute; left: 90px; width: 30px; text-align: center;">2019</div>
+                <div style="position: absolute; left: 140px; width: 30px; text-align: center;">2020</div>
+                <div style="position: absolute; left: 190px; width: 30px; text-align: center;">2021</div>
+                <div style="position: absolute; left: 240px; width: 30px; text-align: center;">2022</div>
+                <div style="position: absolute; left: 290px; width: 30px; text-align: center;">2023</div>
+                <div style="position: absolute; left: 340px; width: 30px; text-align: center;">2024</div>
             </div>
         </div>
     </div>
