@@ -10,23 +10,21 @@ redirect_from:
 Welcome to my personal website. My name is Yimeng SONG, currently a Postdoctoral Associate at Yale. My research interests lie primarily at the intersection of geospatial science (particularly geospatial big data and GeoAI) and environmental health. I received my PhD from The Chinese University of Hong Kong in 2019. Before joining Yale in July 2022, I served as a Research Assistant Professor at The Hong Kong Polytechnic University. 
 
 ### Education:
-
+======
 - 2019: **Ph.D.** Geography and Resource Management, *The Chinese University of Hong Kong*
 - 2018: **Visiting Ph.D. Student**, *University of Illinois at Urbana-Champaign*
 - 2012: **B.A.** Economics, *Peking University*
 - 2012: **B.Eng.** Land Resources Management, *China University of Geosciences (Beijing)*
-
-- <span style="color: #1A5276;">A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice.</span> <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B.M., Stewart, R., Choi, H. M., Bell, M.L.</span><br>
-  <span style="color: darkblue;">*Environmental Research*</span>, 119550, (2014).<br>
   
 ### Appointments:
+======
+- 2022 – now: **Postdoctoral Associate**, *Yale University*<br>
+- 2021 – 2022: **Research Assistant Professor**, *The Hong Kong Polytechnic University*
+- 2019 – 2021: **Postdoctoral Fellow**, *The University of Hong Kong*
+- 2014 – 2015: **Research Assistant**, *The Chinese University of Hong Kong*
 
-- 2022 – now: **Postdoctoral Associate**,<br>
-              School of the Environment, *Yale University*<br>
-- 2021 – 2022: **Research Assistant Professor**, Department of Land Surveying and Geo-Informatics, *The Hong Kong Polytechnic University*
-- 2019 – 2021: **Postdoctoral Fellow**, Department of Urban Planning and Design, *The University of Hong Kong*
-- 2014 – 2015: **Research Assistant**, Shenzhen Research Institute, The Chinese University of Hong Kong
+### News:
+======
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
