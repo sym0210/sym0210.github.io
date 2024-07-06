@@ -136,13 +136,13 @@ author_profile: true
                 <span>1655</span>
             </div>
             <div class="x-axis">
-                <div style="position: absolute; left: 40px; width: 30px; text-align: center;">2018</div>
-                <div style="position: absolute; left: 90px; width: 30px; text-align: center;">2019</div>
-                <div style="position: absolute; left: 140px; width: 30px; text-align: center;">2020</div>
-                <div style="position: absolute; left: 190px; width: 30px; text-align: center;">2021</div>
-                <div style="position: absolute; left: 240px; width: 30px; text-align: center;">2022</div>
-                <div style="position: absolute; left: 290px; width: 30px; text-align: center;">2023</div>
-                <div style="position: absolute; left: 340px; width: 30px; text-align: center;">2024</div>
+                <div style="position: absolute; left: 45px; width: 30px; text-align: center;">2018</div>
+                <div style="position: absolute; left: 95px; width: 30px; text-align: center;">2019</div>
+                <div style="position: absolute; left: 145px; width: 30px; text-align: center;">2020</div>
+                <div style="position: absolute; left: 195px; width: 30px; text-align: center;">2021</div>
+                <div style="position: absolute; left: 245px; width: 30px; text-align: center;">2022</div>
+                <div style="position: absolute; left: 295px; width: 30px; text-align: center;">2023</div>
+                <div style="position: absolute; left: 345px; width: 30px; text-align: center;">2024</div>
             </div>
         </div>
     </div>
