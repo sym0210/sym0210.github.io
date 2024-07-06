@@ -6,82 +6,146 @@ author_profile: true
 ---
 
 
-<!DOCTYPE html>
-<html>
+
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-        .histogram text {
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
             font-family: Arial, sans-serif;
+        }
+        .stats-table {
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+        .stats-table th, .stats-table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        .stats-table th {
+            background-color: #f2f2f2;
+        }
+        .bar-chart {
+            position: relative;
+            width: 500px;
+            height: 200px;
+        }
+        .bar {
+            position: absolute;
+            bottom: 0;
+            width: 20px;
+            background-color: gray;
+        }
+        .bar span {
+            position: absolute;
+            bottom: 100%;
+            width: 100%;
+            text-align: center;
+            font-size: 12px;
+        }
+        .y-axis {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            height: 100%;
+            width: 30px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        .y-axis div {
+            font-size: 12px;
+            text-align: right;
+        }
+        .x-axis {
+            position: absolute;
+            bottom: -20px;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+        }
+        .x-axis div {
+            font-size: 12px;
+            text-align: center;
+            width: 40px;
         }
     </style>
 </head>
 <body>
-    <div class="histogram">
-        <!-- Top text -->
-        <svg width="500" height="50">
-            <text x="40" y="20" font-size="14">Citations</text>
-            <text x="140" y="20" font-size="14">h-index</text>
-            <text x="220" y="20" font-size="14">i10-index</text>
-            <text x="300" y="20" font-size="14">All</text>
-            <text x="400" y="20" font-size="14">Since 2019</text>
+    <div class="container">
+        <!-- Statistics Table -->
+        <table class="stats-table" id="gsc_rsb_st">
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>All</th>
+                    <th>Since 2019</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><a href="javascript:void(0)" class="gsc_rsb_f gs_ibl" title="This is the number of citations to all publications. The second column has the &quot;recent&quot; version of this metric which is the number of new citations in the last 5 years to all publications.">Citations</a></td>
+                    <td>11681</td>
+                    <td>11584</td>
+                </tr>
+                <tr>
+                    <td><a href="javascript:void(0)" class="gsc_rsb_f gs_ibl" title="h-index is the largest number h such that h publications have at least h citations. The second column has the &quot;recent&quot; version of this metric which is the largest number h such that h publications have at least h new citations in the last 5 years.">h-index</a></td>
+                    <td>34</td>
+                    <td>34</td>
+                </tr>
+                <tr>
+                    <td><a href="javascript:void(0)" class="gsc_rsb_f gs_ibl" title="i10-index is the number of publications with at least 10 citations. The second column has the &quot;recent&quot; version of this metric which is the number of publications that have received at least 10 new citations in the last 5 years.">i10-index</a></td>
+                    <td>46</td>
+                    <td>46</td>
+                </tr>
+            </tbody>
+        </table>
 
-            <text x="40" y="40" font-size="14">11681</text>
-            <text x="140" y="40" font-size="14">34</text>
-            <text x="220" y="40" font-size="14">46</text>
-            <text x="300" y="40" font-size="14">11584</text>
-            <text x="400" y="40" font-size="14">34</text>
-            <text x="500" y="40" font-size="14">46</text>
-        </svg>
-
-        <!-- Bar chart with y-axis -->
-        <svg width="500" height="200">
-            <!-- Y-axis labels -->
-            <text x="10" y="180" font-size="12">0</text>
-            <text x="10" y="140" font-size="12">700</text>
-            <text x="10" y="100" font-size="12">1400</text>
-            <text x="10" y="60" font-size="12">2100</text>
-            <text x="10" y="20" font-size="12">2800</text>
-
-            <!-- Y-axis lines -->
-            <line x1="30" y1="20" x2="30" y2="180" stroke="black" stroke-width="1"/>
-            <line x1="30" y1="180" x2="480" y2="180" stroke="black" stroke-width="1"/>
-            <line x1="30" y1="140" x2="480" y2="140" stroke="gray" stroke-width="0.5"/>
-            <line x1="30" y1="100" x2="480" y2="100" stroke="gray" stroke-width="0.5"/>
-            <line x1="30" y1="60" x2="480" y2="60" stroke="gray" stroke-width="0.5"/>
-            <line x1="30" y1="20" x2="480" y2="20" stroke="gray" stroke-width="0.5"/>
-
-            <!-- X-axis labels -->
-            <text x="40" y="195" font-size="12">2018</text>
-            <text x="90" y="195" font-size="12">2019</text>
-            <text x="140" y="195" font-size="12">2020</text>
-            <text x="190" y="195" font-size="12">2021</text>
-            <text x="240" y="195" font-size="12">2022</text>
-            <text x="290" y="195" font-size="12">2023</text>
-            <text x="340" y="195" font-size="12">2024</text>
-
-            <!-- Bars -->
-            <rect x="40" y="178" width="20" height="2" fill="gray">
-                <title>44</title>
-            </rect>
-            <rect x="90" y="170" width="20" height="10" fill="gray">
-                <title>151</title>
-            </rect>
-            <rect x="140" y="20" width="20" height="160" fill="gray">
-                <title>2749</title>
-            </rect>
-            <rect x="190" y="28" width="20" height="152" fill="gray">
-                <title>2540</title>
-            </rect>
-            <rect x="240" y="42" width="20" height="138" fill="gray">
-                <title>2045</title>
-            </rect>
-            <rect x="290" y="36" width="20" height="144" fill="gray">
-                <title>2346</title>
-            </rect>
-            <rect x="340" y="66" width="20" height="114" fill="gray">
-                <title>1655</title>
-            </rect>
-        </svg>
+        <!-- Bar Chart -->
+        <div class="bar-chart">
+            <div class="y-axis">
+                <div>2800</div>
+                <div>2100</div>
+                <div>1400</div>
+                <div>700</div>
+                <div>0</div>
+            </div>
+            <div class="bar" style="left: 40px; height: 2px;">
+                <span>44</span>
+            </div>
+            <div class="bar" style="left: 90px; height: 8px;">
+                <span>151</span>
+            </div>
+            <div class="bar" style="left: 140px; height: 157px;">
+                <span>2749</span>
+            </div>
+            <div class="bar" style="left: 190px; height: 145px;">
+                <span>2540</span>
+            </div>
+            <div class="bar" style="left: 240px; height: 116px;">
+                <span>2045</span>
+            </div>
+            <div class="bar" style="left: 290px; height: 134px;">
+                <span>2346</span>
+            </div>
+            <div class="bar" style="left: 340px; height: 94px;">
+                <span>1655</span>
+            </div>
+            <div class="x-axis">
+                <div>2018</div>
+                <div>2019</div>
+                <div>2020</div>
+                <div>2021</div>
+                <div>2022</div>
+                <div>2023</div>
+                <div>2024</div>
+            </div>
+        </div>
     </div>
 </body>
 </html>
