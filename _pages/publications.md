@@ -5,11 +5,50 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="gsc_md_hist_b"><span class="gsc_g_t" style="right:195px">2018</span><span class="gsc_g_t" style="right:163px">2019</span><span class="gsc_g_t" style="right:131px">2020</span><span class="gsc_g_t" style="right:99px">2021</span><span class="gsc_g_t" style="right:67px">2022</span><span class="gsc_g_t" style="right:35px">2023</span><span class="gsc_g_t" style="right:3px">2024</span><a href="javascript:void(0)" class="gsc_g_a" style="right:200px;top:158px;height:2px;z-index:7"><span class="gsc_g_al">44</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:168px;top:152px;height:8px;z-index:6"><span class="gsc_g_al">151</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:136px;top:3px;height:157px;z-index:5"><span class="gsc_g_al">2749</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:104px;top:15px;height:145px;z-index:4"><span class="gsc_g_al">2540</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:72px;top:44px;height:116px;z-index:3"><span class="gsc_g_al">2045</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:40px;top:26px;height:134px;z-index:2"><span class="gsc_g_al">2346</span></a><a href="javascript:void(0)" class="gsc_g_a" style="right:8px;top:66px;height:94px;z-index:1"><span class="gsc_g_al">1655</span></a></div>
+<div class="histogram">
+    <svg width="500" height="200">
+        <!-- X-axis labels -->
+        <text x="40" y="190" font-size="12">2018</text>
+        <text x="90" y="190" font-size="12">2019</text>
+        <text x="140" y="190" font-size="12">2020</text>
+        <text x="190" y="190" font-size="12">2021</text>
+        <text x="240" y="190" font-size="12">2022</text>
+        <text x="290" y="190" font-size="12">2023</text>
+        <text x="340" y="190" font-size="12">2024</text>
+
+        <!-- Bars -->
+        <rect x="40" y="158" width="20" height="2" fill="blue">
+            <title>44</title>
+        </rect>
+        <rect x="90" y="152" width="20" height="8" fill="blue">
+            <title>151</title>
+        </rect>
+        <rect x="140" y="3" width="20" height="157" fill="blue">
+            <title>2749</title>
+        </rect>
+        <rect x="190" y="15" width="20" height="145" fill="blue">
+            <title>2540</title>
+        </rect>
+        <rect x="240" y="44" width="20" height="116" fill="blue">
+            <title>2045</title>
+        </rect>
+        <rect x="290" y="26" width="20" height="134" fill="blue">
+            <title>2346</title>
+        </rect>
+        <rect x="340" y="66" width="20" height="94" fill="blue">
+            <title>1655</title>
+        </rect>
+    </svg>
+</div>
+
 
 ### •  ***Peer-reviewed Journal Articles***
 
 ### 2024
+
+- A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice.
+Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B.M., Stewart, R., Choi, H. M., Bell, M.L. (2024). 
+<span style="color: darkblue;">*Environmental Research*</span>, 119550. <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">Link</a>
 
 - Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B.M., Stewart, R., Choi, H. M., Bell, M.L. (2024). A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice. <span style="color: darkblue;">*Environmental Research*</span>, 119550. <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">Link</a>
 - **Song, Y.**<sup>\*</sup>, Wu, S., Chen, B., & Bell, M. L. (2024). Unraveling near real-time spatial dynamics of population using geographical ensemble learning. <span style="color: darkblue;">*International Journal of Applied Earth Observation and Geoinformation*</span>, *130*, 103882. <a href="https://doi.org/10.1016/j.jag.2024.103882" target="_blank">Link</a>
