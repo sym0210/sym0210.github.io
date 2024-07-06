@@ -6,6 +6,87 @@ author_profile: true
 ---
 
 
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .histogram text {
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <div class="histogram">
+        <!-- Top text -->
+        <svg width="500" height="50">
+            <text x="40" y="20" font-size="14">Citations</text>
+            <text x="140" y="20" font-size="14">h-index</text>
+            <text x="220" y="20" font-size="14">i10-index</text>
+            <text x="300" y="20" font-size="14">All</text>
+            <text x="400" y="20" font-size="14">Since 2019</text>
+
+            <text x="40" y="40" font-size="14">11681</text>
+            <text x="140" y="40" font-size="14">34</text>
+            <text x="220" y="40" font-size="14">46</text>
+            <text x="300" y="40" font-size="14">11584</text>
+            <text x="400" y="40" font-size="14">34</text>
+            <text x="500" y="40" font-size="14">46</text>
+        </svg>
+
+        <!-- Bar chart with y-axis -->
+        <svg width="500" height="200">
+            <!-- Y-axis labels -->
+            <text x="10" y="180" font-size="12">0</text>
+            <text x="10" y="140" font-size="12">700</text>
+            <text x="10" y="100" font-size="12">1400</text>
+            <text x="10" y="60" font-size="12">2100</text>
+            <text x="10" y="20" font-size="12">2800</text>
+
+            <!-- Y-axis lines -->
+            <line x1="30" y1="20" x2="30" y2="180" stroke="black" stroke-width="1"/>
+            <line x1="30" y1="180" x2="480" y2="180" stroke="black" stroke-width="1"/>
+            <line x1="30" y1="140" x2="480" y2="140" stroke="gray" stroke-width="0.5"/>
+            <line x1="30" y1="100" x2="480" y2="100" stroke="gray" stroke-width="0.5"/>
+            <line x1="30" y1="60" x2="480" y2="60" stroke="gray" stroke-width="0.5"/>
+            <line x1="30" y1="20" x2="480" y2="20" stroke="gray" stroke-width="0.5"/>
+
+            <!-- X-axis labels -->
+            <text x="40" y="195" font-size="12">2018</text>
+            <text x="90" y="195" font-size="12">2019</text>
+            <text x="140" y="195" font-size="12">2020</text>
+            <text x="190" y="195" font-size="12">2021</text>
+            <text x="240" y="195" font-size="12">2022</text>
+            <text x="290" y="195" font-size="12">2023</text>
+            <text x="340" y="195" font-size="12">2024</text>
+
+            <!-- Bars -->
+            <rect x="40" y="178" width="20" height="2" fill="gray">
+                <title>44</title>
+            </rect>
+            <rect x="90" y="170" width="20" height="10" fill="gray">
+                <title>151</title>
+            </rect>
+            <rect x="140" y="20" width="20" height="160" fill="gray">
+                <title>2749</title>
+            </rect>
+            <rect x="190" y="28" width="20" height="152" fill="gray">
+                <title>2540</title>
+            </rect>
+            <rect x="240" y="42" width="20" height="138" fill="gray">
+                <title>2045</title>
+            </rect>
+            <rect x="290" y="36" width="20" height="144" fill="gray">
+                <title>2346</title>
+            </rect>
+            <rect x="340" y="66" width="20" height="114" fill="gray">
+                <title>1655</title>
+            </rect>
+        </svg>
+    </div>
+</body>
+</html>
+
+
 
 <div class="histogram">
     <svg width="500" height="200">
@@ -49,9 +130,7 @@ author_profile: true
 ### 2024
 
 - A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice.
-  
   Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B.M., Stewart, R., Choi, H. M., Bell, M.L. (2024).
-  
   <span style="color: darkblue;">*Environmental Research*</span>, 119550. <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">Link</a>
 
 - Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B.M., Stewart, R., Choi, H. M., Bell, M.L. (2024). A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice. <span style="color: darkblue;">*Environmental Research*</span>, 119550. <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">Link</a>
