@@ -8,6 +8,7 @@ author_profile: true
 
 
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -39,7 +40,7 @@ author_profile: true
         .bar {
             position: absolute;
             bottom: 0;
-            width: 20px;
+            width: 40px;
             background-color: gray;
         }
         .bar span {
@@ -73,7 +74,6 @@ author_profile: true
         .x-axis div {
             font-size: 12px;
             text-align: center;
-            width: 20px; /* Changed from 40px to 20px */
         }
     </style>
 </head>
@@ -116,40 +116,41 @@ author_profile: true
                 <div>700</div>
                 <div>0</div>
             </div>
-            <div class="bar" style="left: 25px; height: 2px;">
+            <div class="bar" style="left: 40px; height: 2px;">
                 <span>44</span>
             </div>
-            <div class="bar" style="left: 75px; height: 8px;">
+            <div class="bar" style="left: 90px; height: 8px;">
                 <span>151</span>
             </div>
-            <div class="bar" style="left: 125px; height: 157px;">
+            <div class="bar" style="left: 140px; height: 157px;">
                 <span>2749</span>
             </div>
-            <div class="bar" style="left: 175px; height: 145px;">
+            <div class="bar" style="left: 190px; height: 145px;">
                 <span>2540</span>
             </div>
-            <div class="bar" style="left: 225px; height: 116px;">
+            <div class="bar" style="left: 240px; height: 116px;">
                 <span>2045</span>
             </div>
-            <div class="bar" style="left: 275px; height: 134px;">
+            <div class="bar" style="left: 290px; height: 134px;">
                 <span>2346</span>
             </div>
-            <div class="bar" style="left: 325px; height: 94px;">
+            <div class="bar" style="left: 340px; height: 94px;">
                 <span>1655</span>
             </div>
             <div class="x-axis">
-                <div style="left: 25px;">2018</div>
-                <div style="left: 75px;">2019</div>
-                <div style="left: 125px;">2020</div>
-                <div style="left: 175px;">2021</div>
-                <div style="left: 225px;">2022</div>
-                <div style="left: 275px;">2023</div>
-                <div style="left: 325px;">2024</div>
+                <div style="position: absolute; left: 40px; width: 40px; text-align: center;">2018</div>
+                <div style="position: absolute; left: 90px; width: 40px; text-align: center;">2019</div>
+                <div style="position: absolute; left: 140px; width: 40px; text-align: center;">2020</div>
+                <div style="position: absolute; left: 190px; width: 40px; text-align: center;">2021</div>
+                <div style="position: absolute; left: 240px; width: 40px; text-align: center;">2022</div>
+                <div style="position: absolute; left: 290px; width: 40px; text-align: center;">2023</div>
+                <div style="position: absolute; left: 340px; width: 40px; text-align: center;">2024</div>
             </div>
         </div>
     </div>
 </body>
 </html>
+
 
 
 
