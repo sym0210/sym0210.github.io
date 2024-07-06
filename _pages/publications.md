@@ -77,77 +77,63 @@ author_profile: true
         }
     </style>
 </head>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bar Chart with Chart.js</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        .container {
+            width: 60%;
+            margin: 0 auto;
+        }
+    </style>
+</head>
 <body>
     <div class="container">
-        <!-- Statistics Table -->
-        <table class="stats-table" id="gsc_rsb_st">
-            <thead>
-                <tr>
-                    <th></th>
-                    <th>All</th>
-                    <th>Since 2019</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td><a href="javascript:void(0)" class="gsc_rsb_f gs_ibl" title="This is the number of citations to all publications. The second column has the &quot;recent&quot; version of this metric which is the number of new citations in the last 5 years to all publications.">Citations</a></td>
-                    <td>11681</td>
-                    <td>11584</td>
-                </tr>
-                <tr>
-                    <td><a href="javascript:void(0)" class="gsc_rsb_f gs_ibl" title="h-index is the largest number h such that h publications have at least h citations. The second column has the &quot;recent&quot; version of this metric which is the largest number h such that h publications have at least h new citations in the last 5 years.">h-index</a></td>
-                    <td>34</td>
-                    <td>34</td>
-                </tr>
-                <tr>
-                    <td><a href="javascript:void(0)" class="gsc_rsb_f gs_ibl" title="i10-index is the number of publications with at least 10 citations. The second column has the &quot;recent&quot; version of this metric which is the number of publications that have received at least 10 new citations in the last 5 years.">i10-index</a></td>
-                    <td>46</td>
-                    <td>46</td>
-                </tr>
-            </tbody>
-        </table>
-
-        <!-- Bar Chart -->
-        <div class="bar-chart">
-            <div class="y-axis">
-                <div>2800</div>
-                <div>2100</div>
-                <div>1400</div>
-                <div>700</div>
-                <div>0</div>
-            </div>
-            <div class="bar" style="left: 40px; height: 2px;">
-                <span>44</span>
-            </div>
-            <div class="bar" style="left: 90px; height: 8px;">
-                <span>151</span>
-            </div>
-            <div class="bar" style="left: 140px; height: 157px;">
-                <span>2749</span>
-            </div>
-            <div class="bar" style="left: 190px; height: 145px;">
-                <span>2540</span>
-            </div>
-            <div class="bar" style="left: 240px; height: 116px;">
-                <span>2045</span>
-            </div>
-            <div class="bar" style="left: 290px; height: 134px;">
-                <span>2346</span>
-            </div>
-            <div class="bar" style="left: 340px; height: 94px;">
-                <span>1655</span>
-            </div>
-            <div class="x-axis">
-                <div style="position: absolute; left: 40px; width: 40px; text-align: center;">2018</div>
-                <div style="position: absolute; left: 90px; width: 40px; text-align: center;">2019</div>
-                <div style="position: absolute; left: 140px; width: 40px; text-align: center;">2020</div>
-                <div style="position: absolute; left: 190px; width: 40px; text-align: center;">2021</div>
-                <div style="position: absolute; left: 240px; width: 40px; text-align: center;">2022</div>
-                <div style="position: absolute; left: 290px; width: 40px; text-align: center;">2023</div>
-                <div style="position: absolute; left: 340px; width: 40px; text-align: center;">2024</div>
-            </div>
-        </div>
+        <canvas id="myChart"></canvas>
     </div>
+
+    <script>
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const myChart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: ['2018', '2019', '2020', '2021', '2022', '2023', '2024'],
+                datasets: [{
+                    label: 'Citations',
+                    data: [44, 151, 2749, 2540, 2045, 2346, 1655],
+                    backgroundColor: 'gray',
+                    borderColor: 'gray',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 2800,
+                        ticks: {
+                            stepSize: 700
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return context.raw;
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    </script>
 </body>
 </html>
 
