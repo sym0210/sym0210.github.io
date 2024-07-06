@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-### •  ***Peer-reviewed Journal Articles***
+### •  ***Peer-reviewed Journal Articles***<br>
+(<sup>\*</sup> : Corresponding Author. <sup>\#</sup> : Co-first author.)<br>
+(Total citations in <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">Google Scholar</a> = 11681 by July 2024)<br>
 
 ### 2024
 
