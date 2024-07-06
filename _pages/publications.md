@@ -137,22 +137,64 @@ author_profile: true
   <span style="color: #626567;">Long, Y., **Song, Y.**<sup>\*</sup>, & Chen, L.<sup>\*</sup></span><br>
   <span style="color: darkblue;">*Environment and Planning B
 
-
-- Ikuta, K. S., Swetschinski, L. R., Aguilar, G. R., ... **Song, Y.**, ... Murray, C. J. L. N. & Mohsen N. (2022). Global mortality associated with 33 bacterial pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019. <span style="color: darkblue;">*The Lancet*</span>, *400*(10369), 2221-2248. <a href="https://doi.org/10.1016/S0140-6736(22)02185-7" target="_blank">Link</a>
-- **Song, Y.** <sup>\*</sup>, Xu Y., Chen, B., He, Q., Tu, Y., Wang, F., & Cai, C. (2022). Dynamic population mapping with AutoGluon. <span style="color: darkblue;">*Urban Informatics*</span>, *1*(1), 13. <a href="https://doi.org/10.1007/s44212-022-00017-x" target="_blank">Link</a>
-- Kyu, H. H., Vongpradith, A., Sirota, S. B., ... **Song, Y.**, ... & Murray, C. J. L. (2022). Age–sex differences in the global burden of lower respiratory infections and risk factors, 1990–2019: results from the Global Burden of Disease Study 2019. <span style="color: darkblue;">*The Lancet Infectious Diseases*</span>, *22*(11), 1626-1647. <a href="https://doi.org/10.1016/S1473-3099(22)00510-2" target="_blank">Link</a>
-- Tran, K. B., Lang, J. J., Compton, K., … **Song, Y.**, ... Force, L. M., & Murray, C. J. L. (2022). The global burden of cancer attributable to risk factors, 2010–19: a systematic analysis for the Global Burden of Disease Study 2019. <span style="color: darkblue;">*The Lancet*</span>, *400*(10352), 563-591. <a href="https://doi.org/10.1016/S0140-6736(22)01438-6" target="_blank">Link</a>
-- Chen, B., Wu, S., **Song, Y.**, Webster, C., Xu, B., & Gong, P. (2022). Contrasting inequality in human exposure to greenspace between cities of Global North and Global South. <span style="color: darkblue;">*Nature Communications*</span>, *13*, 4636. <a href="https://doi.org/10.1038/s41467-022-32258-4" target="_blank">Link</a>
-- Ho, H. C., Cheng, W., **Song, Y.**, Liu, Y., Guo, Y., Lu, S., Lum, T. Y., Chiu, R., & Webster, C. (2022). Spatial uncertainty and environment-health association: An empirical study of osteoporosis among “old residents” in public housing estates across a hilly environment. <span style="color: darkblue;">*Social Science & Medicine*</span>, *306*, 115155. <a href="https://doi.org/10.1016/j.socscimed.2022.115155" target="_blank">Link</a>
-- Chen, B., Tu, Y., Wu, S., **Song, Y.**, Jin, Y., Webster, C., Xu, B., & Gong, P. (2022). Beyond green environments: multi-scale difference in human exposure to greenspace in China. <span style="color: darkblue;">*Environment International*</span>, *166*, 107348. <a href="https://doi.org/10.1016/j.envint.2022.107348" target="_blank">Link</a>
-- Bryazka, D., Reitsma, M. B., Griswold, M. G., ... **Song, Y.**, ... & Gakidou, E. (2022). Population-level risks of alcohol consumption by amount, geography, age, sex, and year: a systematic analysis for the Global Burden of Disease Study 2020. <span style="color: darkblue;">*The Lancet*</span>, *400*(10347), 185-235. <a href="https://doi.org/10.1016/S0140-6736(22)00847-9" target="_blank">Link</a>
-- Liu, D., Kwan, M. P., Kan, Z., **Song, Y.**, & Li, X. (2022). Inter- and intra-racial/ethnic disparities in walking accessibility to grocery stores. <span style="color: darkblue;">*Area*</span>, *54*(4), 627-637. <a href="https://doi.org/10.1111/area.12796" target="_blank">Link</a>
-- He, D., Miao, J., Lu, Y., **Song, Y.**, Chen, L., & Liu, Y. (2022). Urban greenery mitigates the negative effect of urban density on older adults' life satisfaction: Evidence from Shanghai, China. <span style="color: darkblue;">*Cities*</span>, *124*, 103607. <a href="https://doi.org/10.1016/j.cities.2022.103607" target="_blank">Link</a>
-- Liu, D., Kwan, M. P., Huang, J., Kan, Z., **Song, Y.**, & Li, X. (2022). Analyzing income-based inequality in transit nodal accessibility. <span style="color: darkblue;">*Travel Behaviour and Society*</span>, *27*, 57-64. <a href="https://doi.org/10.1016/j.tbs.2021.11.005" target="_blank">Link</a>
-- Cong, J., Wang, L. B., Liu, F. J., Qian, Z., McMillin, S. E., Vaughn, M. G., **Song, Y.**, Wang, S., Chen, S., Xiong, S., Shen, X., Sun, X., Zhou, Y., Ho, H. C., & Dong. G. H. (2022). Associations between metabolic syndrome and anthropogenic heat emissions in northeastern China. <span style="color: darkblue;">*Environmental Research*</span>, *204*, 111974. <a href="https://doi.org/10.1016/j.envres.2021.111974" target="_blank">Link</a>
-- Long, Y., **Song, Y.**<sup>\*</sup>, & Chen, L.<sup>\*</sup> (2022). Identifying subcenters with a nonparametric method and ubiquitous point-of-interest data: A case study of 284 Chinese cities. <span style="color: darkblue;">*Environment and Planning B: Urban Analytics and City Science*</span>, *49*(1), 58-75. <a href="https://doi.org/10.1177/2399808321996705" target="_blank">Link</a>
-
 ### **2021**
+
+- <span style="color: #1A5276;">Neighborhood built environment and late-life depression: a multilevel path analysis in a Chinese society.</span> <a href="https://doi.org/10.1093/geronb/gbab037" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Lu, S., Liu, Y., Guo, Y., Ho, H. C., **Song, Y.**, Cheng, W., Chui, C., Chan, O., Chiu, R. L. H., Webster, C., & Lum, T. Y.</span><br>
+  <span style="color: darkblue;">*The Journals of Gerontology: Series B*</span>, *76*(10), 2143-2154, (2021).<br>
+
+- <span style="color: #1A5276;">Observed inequality in urban greenspace exposure in China.</span> <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">**Song, Y.**, Chen, B., Ho, C., H., Kwan, M. P., Liu, D., Wang, J., Cai, J., Li, X., Xu, Y., He, Q., Wang, H., Xu, Q., & Song, Y.</span><br>
+  <span style="color: darkblue;">*Environment International*</span>, *156*, 106778, (2021).<br>
+
+- <span style="color: #1A5276;">Satellite-derived 1-km estimates and long-term trends of PM concentrations in China from 2000 to 2018.</span> <a href="https://doi.org/10.1016/j.envint.2021.106726" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">He, Q., Gao, K., Zhang, L., **Song, Y.**, & Zhang, M.</span><br>
+  <span style="color: darkblue;">*Environment International*</span>, *156*, 106726, (2021).<br>
+
+- <span style="color: #1A5276;">Early-life exposure to submicron particulate air pollution in relation to asthma development in Chinese preschool children.</span> <a href="https://doi.org/10.1016/j.jaci.2021.02.030" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Zhang, Y., Wei J., Shi Y., Quan C., Ho, H. C., **Song, Y.**, & Zhang, L.</span><br>
+  <span style="color: darkblue;">*Journal of Allergy and Clinical Immunology*</span>, *148(3)*, 771-782, (2021).<br>
+
+- <span style="color: #1A5276;">Mapping essential urban land use categories with open big data: Results for five metropolitan areas in the United States of America.</span> <a href="https://doi.org/10.1016/j.isprsjprs.2021.06.010" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Chen, B., Tu, Y., **Song, Y.**, Theobald, D., Zhang, T., Ren, Z., Li, X., Yang, J., Wang, J., Wang, X., Gong, P., Bai, Y., & Xu, B.</span><br>
+  <span style="color: darkblue;">*ISPRS Journal of Photogrammetry and Remote Sensing*</span>, *178*, 203-218, (2021).<br>
+
+- <span style="color: #1A5276;">Longitudinal associations between neighbourhood physical environments and depressive symptoms of older adults in Hong Kong: The moderating effects of terrain slope and declining functional abilities.</span> <a href="https://doi.org/10.1016/j.healthplace.2021.102585" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Liu, Y., Lu, S., Guo, Y., Ho, H. C., **Song, Y.**, Cheng, W., Hiu, C., Chui, K., Chan, O., Chiu, R. L. H., Webster, C., & Lum, T. Y.</span><br>
+  <span style="color: darkblue;">*Health & Place*</span>, *70*, 102585, (2021).<br>
+
+- <span style="color: #1A5276;">Perceived influence of street-level visible greenness exposure in the work and residential environment on life satisfaction: Evidence from China.</span> <a href="https://doi.org/10.1016/j.ufug.2021.127161" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Wu, W., Yao, Y., **Song, Y.**, He, D., & Wang, Y.</span><br>
+  <span style="color: darkblue;">*Urban Forestry & Urban Greening*</span>, *62*, 127161, (2021).<br>
+
+- <span style="color: #1A5276;">Ambient particulate matter (PM, PM, PM) and childhood pneumonia: The smaller particle, the greater short-term impact?</span> <a href="https://doi.org/10.1016/j.scitotenv.2021.145509" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Wang, X., Xu, Z., Su, H., Ho, H. C., **Song, Y.**, Zheng, H., Hossain, M., Z., Khan, M., F., Bogale, F., Wei, J., & Cheng, J.</span><br>
+  <span style="color: darkblue;">*Science of the Total Environment*</span>, *772*, 145509, (2021).<br>
+
+- <span style="color: #1A5276;">Neighbourhood physical environment, intrinsic capacity, and 4-year late-life functional ability trajectories of low-income Chinese older population: A longitudinal study with the parallel process of latent growth curve modelling.</span> <a href="https://doi.org/10.1016/j.eclinm.2021.100927" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Lu, S., Liu, Y., Guo, Y., Ho, H. C., **Song, Y.**, Cheng, W., Chui, C., Chan, O. F., Webster, C., Lai, R., Chiu, H., & Lum, T. Y.</span><br>
+  <span style="color: darkblue;">*EClinicalMedicine*</span>, *36*, 100927, (2021).<br>
+
+- <span style="color: #1A5276;">Population mapping in China with social user and remote sensing data.</span> <a href="https://doi.org/10.1016/j.apgeog.2021.102450" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Xu, Y., **Song, Y.**<sup>\*</sup>, Cai, J., & Zhu, H.<sup>\*</sup></span><br>
+  <span style="color: darkblue;">*Applied Geography*</span>, *130*, 102450, (2021).<br>
+
+- <span style="color: #1A5276;">Spatiotemporal assessment of PM2.5 concentrations and exposure in China from 2013 to 2017 using satellite-derived data.</span> <a href="https://doi.org/10.1016/j.jclepro.2020.124965" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">He, Q., Zhang, M., **Song, Y.**, & Huang, B.</span><br>
+  <span style="color: darkblue;">*Journal of Cleaner Production*</span>, *286*, 124965, (2021).<br>
+
+- <span style="color: #1A5276;">Do socioeconomic factors modify the effects of PM and SO on lung cancer incidence in China?</span> <a href="https://doi.org/10.1016/j.scitotenv.2020.143998" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Guo, H., Wei, J., Li. X., Ho, H. C., **Song, Y.**, Wu, J., & Li, W.</span><br>
+  <span style="color: darkblue;">*Science of the Total Environment*</span>, *756*, 143998, (2021).<br>
+
+- <span style="color: #1A5276;">An integrated analysis of housing and transit affordability in the Chicago metropolitan area.</span> <a href="https://doi.org/10.1111/geoj.12377" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Liu, D., Kwan, M. P., Kan, Z. & **Song, Y.**</span><br>
+  <span style="color: darkblue;">*The Geographical Journal*</span>, *187*(2), 110-126, (2021).<br>
+
+- <span style="color: #1A5276;">Intraday effects of ambient PM on emergency department visits in Guangzhou, China: a case-crossover study.</span> <a href="https://doi.org/10.1016/j.scitotenv.2020.142347" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Liu, L., Song, F., Fang, J., Wei, J., Ho, H. C., **Song, Y.**, Zhang, Y., Wang, L., Hu, C., & Zhang. Y.</span><br>
+  <span style="color: darkblue;">*Science of the Total Environment*</span>, *750*, 142347, (2021).<br>
+
 
 - Lu, S., Liu, Y., Guo, Y., Ho, H. C., **Song, Y.**, Cheng, W., Chui, C., Chan, O., Chiu, R. L. H., Webster, C., & Lum, T. Y. (2021). Neighborhood built environment and late-life depression: a multilevel path analysis in a Chinese society. <span style="color: darkblue;">*The Journals of Gerontology: Series B*</span>, *76*(10), 2143-2154. <a href="https://doi.org/10.1093/geronb/gbab037" target="_blank">Link</a>
 - **Song, Y.**, Chen, B., Ho, C., H., Kwan, M. P., Liu, D., Wang, J., Cai, J., Li, X., Xu, Y., He, Q., Wang, H., Xu, Q., & Song, Y. (2021). Observed inequality in urban greenspace exposure in China. <span style="color: darkblue;">*Environment International*</span>, *156*, 106778. <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">Link</a>
