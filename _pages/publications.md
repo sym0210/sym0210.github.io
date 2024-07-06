@@ -43,9 +43,46 @@ author_profile: true
 
 - <span style="color: #1A5276;">Wildfire risk for global wildland–urban interface (WUI) areas.</span> <a href="https://doi.org/10.1038/s41893-024-01291-0" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Chen, B., Wu, S., Jin, Y., **Song, Y.**, Wu, C., Venevsky, S., Xu, B., Webster, C., & Gong P.</span><br>
-  <span style="color: darkblue;">*Nature Sustainability*</span>, *7*, 474–484, (2024).<br
+  <span style="color: darkblue;">*Nature Sustainability*</span>, *7*, 474–484, (2024).<br>
 
 ### 2023
+
+- <span style="color: #1A5276;">Wildfire smoke exposure during pregnancy and adverse perinatal, obstetric, and early childhood health outcomes: a systematic review and meta-analysis.</span> <a href="https://doi.org/10.1016/j.envres.2023.117527" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Foo, D., Heo, S., Dhamrait, G., Stewart, R., Choi, H. M., **Song, Y.**, & Bell, M. L.</span><br>
+  <span style="color: darkblue;">*Environmental Research*</span>, 117527, (2023).<br>
+
+- <span style="color: #1A5276;">Spatiotemporally continuous estimates of daily 1-km PM2.5 concentrations and their long-term exposure in China from 2000 to 2020.</span> <a href="https://doi.org/10.1016/j.jenvman.2023.118145" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">He, Q., Ye, T., Wang, W., Luo, M., **Song, Y.**, & Zhang, M.</span><br>
+  <span style="color: darkblue;">*Journal of Environmental Management*</span>, *342*, 118145, (2023).<br>
+
+- <span style="color: #1A5276;">Racial/Ethnic Inequity in Transit-Based Spatial Accessibility to COVID-19 Vaccination Sites.</span> <a href="https://doi.org/10.1007/s40615-022-01339-x" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Liu, D., Kwan, M. P., Kan, Z., **Song, Y.**, & Li, X.</span><br>
+  <span style="color: darkblue;">*Journal of Racial and Ethnic Health Disparities*</span>, *10*, 1533–1541, (2022).<br>
+
+- <span style="color: #1A5276;">Unraveling the nexus between urban expansion and cropland loss in China.</span> <a href="https://doi.org/10.1007/s10980-023-01653-7" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Tu, Y., Chen, B., Yu, L., **Song, Y.**, Wu, S., Li, M., Wei, H., Chen, T., Lang, W., Gong, P. & Xu, B.</span><br>
+  <span style="color: darkblue;">*Landscape Ecology*</span>, *38*, 1869-1884, (2023).<br>
+
+- <span style="color: #1A5276;">How do forms and characteristics of Asian public housing neighbourhoods affect dementia risk among senior population? A cross-sectional study in Hong Kong.</span> <a href="https://doi.org/10.1016/j.puhe.2023.03.014" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Ho, H.C., **Song, Y.**, Cheng, W., Liu, Y., Guo, Y., Lu, S., Lum, T., Chiu, R.L.H., & Webster. C.</span><br>
+  <span style="color: darkblue;">*Public Health*</span>, *219*, 44-52, (2023).<br>
+
+- <span style="color: #1A5276;">Understanding the long-term effects of public open space on older adults’ functional ability and mental health.</span> <a href="https://doi.org/10.1016/j.buildenv.2023.110126" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Liu, Y., Guo, Y., Lu, S., Chan, O. F., Chui, C., Ho, H. C., **Song, Y.**, Cheng, W., Chiu, R. L. H., Webster, C., & Lum, T. Y.</span><br>
+  <span style="color: darkblue;">*Building and Environment*</span>, *234*, 110126, (2023).<br>
+
+- <span style="color: #1A5276;">Neighborhood built environments and cognition in later life.</span> <a href="https://doi.org/10.1080/13607863.2022.2046697" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Chan, O. F., Liu, Y., Guo, Y., Lu, S., Chui, H. K., Ho, H. C., **Song, Y.**, Cheng, W., Chiu, L. H., & Webster, C.</span><br>
+  <span style="color: darkblue;">*Aging & Mental Health*</span>, *27*(3), 466-474, (2022).<br>
+
+- <span style="color: #1A5276;">The temporal trend of disease burden attributable to metabolic risk factors in China, 1990–2019: An analysis of the Global Burden of Disease study.</span> <a href="https://doi.org/10.1016/j.envres.2021.111974" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Jin, Y., So, H., Cerin, E., ... **Song, Y.**, Tam, L., & Wu, D.</span><br>
+  <span style="color: darkblue;">*Frontiers in Nutrition*</span>, *9*, 1035439, (2023).<br>
+
+- <span style="color: #1A5276;">Spatiotemporal high-resolution imputation modeling of aerosol optical depth for investigating its full-coverage variation in China from 2003 to 2020.</span> <a href="https://doi.org/10.1016/j.atmosres.2022.106481" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">He, Q., Wang, W., **Song, Y.**, Zhang, M., & Huang, B.</span><br>
+  <span style="color: darkblue;">*Atmospheric Research*</span>, *281*, 106481, (2023).<br>
+
 
 - Foo, D., Heo, S., Dhamrait, G., Stewart, R., Choi, H. M., **Song, Y.**, & Bell, M. L. (2023).
   Wildfire smoke exposure during pregnancy and adverse perinatal, obstetric, and early childhood health outcom: a systematic review and meta-analysis.
