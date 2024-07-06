@@ -9,10 +9,10 @@ author_profile: true
 
 ### 2024
 
-- Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B.M., Stewart, R., Choi, H. M., Bell, M.L. (2024).<br>
-  <span style="color: #979A9A;">**A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice**</span>.<br>
-  <span style="color: darkblue;">*Environmental Research*</span>, 119550.<br>
-  <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">Link</a>
+- <span style="color: #979A9A;">**A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice**</span> <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">Link</a>.<br>
+  Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B.M., Stewart, R., Choi, H. M., Bell, M.L.<br>
+  <span style="color: darkblue;">*Environmental Research*</span>, 119550, (2014).<br>
+  
   
 - **Song, Y.**<sup>\*</sup>, Wu, S., Chen, B., & Bell, M. L. (2024).
   <span style="color: #979A9A;">**Unraveling near real-time spatial dynamics of population using geographical ensemble learning**</span>.
