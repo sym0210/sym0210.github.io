@@ -10,55 +10,67 @@ author_profile: true
 ### 2024
 
 - Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B.M., Stewart, R., Choi, H. M., Bell, M.L. (2024).
-  <span style="color: #0B5345;">A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice</span>.
+  <span style="color: #641E16;">A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice</span>.
   <span style="color: darkblue;">*Environmental Research*</span>, 119550.
   <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">Link</a>
   
 - **Song, Y.**<sup>\*</sup>, Wu, S., Chen, B., & Bell, M. L. (2024).
-  <span style="color: #0B5345;">Unraveling near real-time spatial dynamics of population using geographical ensemble learning</span>.
+  <span style="color: #641E16;">Unraveling near real-time spatial dynamics of population using geographical ensemble learning</span>.
   <span style="color: darkblue;">*International Journal of Applied Earth Observation and Geoinformation*</span>, *130*, 103882.
   <a href="https://doi.org/10.1016/j.jag.2024.103882" target="_blank">Link</a>
   
 - Ferrari, A. J., Santomauro, D. F., Aali, A., ...**Song, Y.**, ... Vos, T., & Murray, C. J. L. (2024).
-  <span style="color: #0B5345;">Global incidence, prevalence, years lived with disability (YLDs), disability-adjusted life-years (DALYs), and healthy life expectancy (HALE) for 371 diseases and injuries in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021</span>.
+  <span style="color: #641E16;">Global incidence, prevalence, years lived with disability (YLDs), disability-adjusted life-years (DALYs), and healthy life expectancy (HALE) for 371 diseases and injuries in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021</span>.
   <span style="color: darkblue;">*The Lancet*</span>, *403*(10440), 2133-2161.
   <a href="https://doi.org/10.1016/S0140-6736(24)00757-8" target="_blank">Link</a>
   
 - Naghavi, M., Ong, K. L., Aali, A., ... **Song, Y.**, ... Wool, E. E. & Murray, C. J. L. (2024).
-  <span style="color: #0B5345;">Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021</span>.
+  <span style="color: #641E16;">Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021</span>.
   <span style="color: darkblue;">*The Lancet*</span>, *403*(10440), 2100-2132.
   <a href="https://doi.org/10.1016/S0140-6736(24)00367-2" target="_blank">Link</a>
   
 - Bhattacharjee, N. V., Schumacher, A. E., Aali, A., ... **Song, Y.**, ... Murray, C. J. L., Smith, A. E., & Vollset, S. E. (2024).
-  <span style="color: #0B5345;">Global fertility in 204 countries and territories, 1950–2021, with forecasts to 2100: a comprehensive demographic analysis for the Global Burden of Disease Study 2021</span>.
+  <span style="color: #641E16;">Global fertility in 204 countries and territories, 1950–2021, with forecasts to 2100: a comprehensive demographic analysis for the Global Burden of Disease Study 2021</span>.
   <span style="color: darkblue;">*The Lancet*</span>, *403*(10440), 2057-2099.
   <a href="https://doi.org/10.1016/S0140-6736(24)00550-6" target="_blank">Link</a>
   
 - Schumacher, A. E., Kyu, H. H., Aali, A., ... **Song, Y.**, ... Lim, S. S. &, Murray, C. J. L. (2024).
-  <span style="color: #0B5345;">Global age-sex-specific mortality, life expectancy, and population estimates in 204 countries and territories and 811 subnational locations, 1950–2021, and the impact of the COVID-19 pandemic: a comprehensive demographic analysis for the Global Burden of Disease Study 2021</span>.
+  <span style="color: #641E16;">Global age-sex-specific mortality, life expectancy, and population estimates in 204 countries and territories and 811 subnational locations, 1950–2021, and the impact of the COVID-19 pandemic: a comprehensive demographic analysis for the Global Burden of Disease Study 2021</span>.
   <span style="color: darkblue;">*The Lancet*</span>, *403*(10440), 1989-2056.
   <a href="https://doi.org/10.1016/S0140-6736(24)00476-8" target="_blank">Link</a>
   
 - Wang, R., **Song, Y.**, Yang, L., & Browning, M. H. (2024).
-  <span style="color: #0B5345;">Neighbourhood green space and loneliness in middle-aged and older adults: Evidence from WHO Study on Global Ageing and Adult Health in China</span>.
+  <span style="color: #641E16;">Neighbourhood green space and loneliness in middle-aged and older adults: Evidence from WHO Study on Global Ageing and Adult Health in China</span>.
   <span style="color: darkblue;">*Urban Forestry & Urban Greening*</span>, *95*, 128324.
   <a href="https://doi.org/10.1016/j.ufug.2024.128324" target="_blank">Link</a>
   
 - Steinmetz, J. D., Seeher, K. M., Schiess, N., ... **Song, Y.**, ... Ong, K. L., Valery L Feigin, V. L., Vos, T., & Dua, T. (2024).
-  <span style="color: #0B5345;">Global, regional, and national burden of disorders affecting the nervous system, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021</span>.
+  <span style="color: #641E16;">Global, regional, and national burden of disorders affecting the nervous system, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021</span>.
   <span style="color: darkblue;">*The Lancet Neurology*</span>, *23*(4), 344-381.
   <a href="https://doi.org/10.1016/S1474-4422(24)00038-3" target="_blank">Link</a>
   
 - Chen, B., Wu, S., Jin, Y., **Song, Y.**, Wu, C., Venevsky, S., Xu, B., Webster, C., & Gong P. (2024).
-  <span style="color: #0B5345;">Wildfire risk for global wildland–urban interface (WUI) areas</span>.
+  <span style="color: #641E16;">Wildfire risk for global wildland–urban interface (WUI) areas</span>.
   <span style="color: darkblue;">*Nature Sustainability*</span>, *7*, 474–484.
   <a href="https://doi.org/10.1038/s41893-024-01291-0" target="_blank">Link</a>
 
 ### 2023
 
-- Foo, D., Heo, S., Dhamrait, G., Stewart, R., Choi, H. M., **Song, Y.**, & Bell, M. L. (2023). Wildfire smoke exposure during pregnancy and adverse perinatal, obstetric, and early childhood health outcom: a systematic review and meta-analysis. <span style="color: darkblue;">*Environmental Research*</span>, 117527. <a href="https://doi.org/10.1016/j.envres.2023.117527" target="_blank">Link</a>
-- He, Q., Ye, T., Wang, W., Luo, M., **Song, Y.**, & Zhang, M. (2023). Spatiotemporally continuous estimates of daily 1-km PM2. 5 concentrations and their long-term exposure in China from 2000 to 2020. <span style="color: darkblue;">*Journal of Environmental Management*</span>, *342*, 118145. <a href="https://doi.org/10.1016/j.jenvman.2023.118145" target="_blank">Link</a>
-- Liu, D., Kwan, M. P., Kan, Z., **Song, Y.**, & Li, X. (2022). Racial/Ethnic Inequity in Transit-Based Spatial Accessibility to COVID-19 Vaccination Sites. <span style="color: darkblue;">*Journal of Racial and Ethnic Health Disparities*</span>, *10*, 1533–1541. <a href="https://doi.org/10.1007/s40615-022-01339-x" target="_blank">Link</a>
+- Foo, D., Heo, S., Dhamrait, G., Stewart, R., Choi, H. M., **Song, Y.**, & Bell, M. L. (2023).
+  Wildfire smoke exposure during pregnancy and adverse perinatal, obstetric, and early childhood health outcom: a systematic review and meta-analysis.
+  <span style="color: darkblue;">*Environmental Research*</span>, 117527.
+  <a href="https://doi.org/10.1016/j.envres.2023.117527" target="_blank">Link</a>
+  
+- He, Q., Ye, T., Wang, W., Luo, M., **Song, Y.**, & Zhang, M. (2023).
+  Spatiotemporally continuous estimates of daily 1-km PM2. 5 concentrations and their long-term exposure in China from 2000 to 2020.
+  <span style="color: darkblue;">*Journal of Environmental Management*</span>, *342*, 118145.
+  <a href="https://doi.org/10.1016/j.jenvman.2023.118145" target="_blank">Link</a>
+  
+- Liu, D., Kwan, M. P., Kan, Z., **Song, Y.**, & Li, X. (2022).
+  Racial/Ethnic Inequity in Transit-Based Spatial Accessibility to COVID-19 Vaccination Sites.
+  <span style="color: darkblue;">*Journal of Racial and Ethnic Health Disparities*</span>, *10*, 1533–1541.
+  <a href="https://doi.org/10.1007/s40615-022-01339-x" target="_blank">Link</a>
+  
 - Tu, Y., Chen, B., Yu, L., **Song, Y.**, Wu, S., Li, M., Wei, H., Chen, T., Lang, W., Gong, P. & Xu, B. (2023). Raveling the nexus between urban expansion and cropland loss in China. <span style="color: darkblue;">*Landscape Ecology*</span>, *38*, 1869-1884. <a href="https://doi.org/10.1007/s10980-023-01653-7" target="_blank">Link</a>
 - Ho, H.C., **Song, Y.**, Cheng, W., Liu, Y., Guo, Y., Lu, S., Lum, T., Chiu, R.L.H., & Webster. C. (2023). How do forms and characteristics of Asian public housing neighbourhoods affect dementia risk among senior population? A cross-sectional study in Hong Kong. <span style="color: darkblue;">*Public Health*</span>, *219*, 44-52. <a href="https://doi.org/10.1016/j.puhe.2023.03.014" target="_blank">Link</a>
 - Liu, Y., Guo, Y., Lu, S., Chan, O. F., Chui, C., Ho, H. C., **Song, Y.**, Cheng, W., Chiu, R. L. H., Webster, C., & Lum, T. Y. (2023). Understanding the long-term effects of public open space on older adults’ functional ability and mental health. <span style="color: darkblue;">*Building and Environment*</span>, *234*, 110126. <a href="https://doi.org/10.1016/j.buildenv.2023.110126" target="_blank">Link</a>
