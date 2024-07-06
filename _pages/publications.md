@@ -57,7 +57,7 @@ author_profile: true
 
 - <span style="color: #1A5276;">Racial/Ethnic Inequity in Transit-Based Spatial Accessibility to COVID-19 Vaccination Sites.</span> <a href="https://doi.org/10.1007/s40615-022-01339-x" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Liu, D., Kwan, M. P., Kan, Z., **Song, Y.**, & Li, X.</span><br>
-  <span style="color: darkblue;">*Journal of Racial and Ethnic Health Disparities*</span>, *10*, 1533–1541, (2022).<br>
+  <span style="color: darkblue;">*Journal of Racial and Ethnic Health Disparities*</span>, *10*, 1533–1541, (2023).<br>
 
 - <span style="color: #1A5276;">Unraveling the nexus between urban expansion and cropland loss in China.</span> <a href="https://doi.org/10.1007/s10980-023-01653-7" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Tu, Y., Chen, B., Yu, L., **Song, Y.**, Wu, S., Li, M., Wei, H., Chen, T., Lang, W., Gong, P. & Xu, B.</span><br>
@@ -135,7 +135,7 @@ author_profile: true
 
 - <span style="color: #1A5276;">Identifying subcenters with a nonparametric method and ubiquitous point-of-interest data: A case study of 284 Chinese cities.</span> <a href="https://doi.org/10.1177/2399808321996705" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Long, Y., **Song, Y.**<sup>\*</sup>, & Chen, L.<sup>\*</sup></span><br>
-  <span style="color: darkblue;">*Environment and Planning B
+  <span style="color: darkblue;">*Environment and Planning B: Urban Analytics and City Science*</span>, *49*(1), 58-75, (2022).<br>
 
 ### **2021**
 
