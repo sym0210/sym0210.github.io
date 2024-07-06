@@ -83,30 +83,60 @@ author_profile: true
   <span style="color: #626567;">He, Q., Wang, W., **Song, Y.**, Zhang, M., & Huang, B.</span><br>
   <span style="color: darkblue;">*Atmospheric Research*</span>, *281*, 106481, (2023).<br>
 
-
-- Foo, D., Heo, S., Dhamrait, G., Stewart, R., Choi, H. M., **Song, Y.**, & Bell, M. L. (2023).
-  Wildfire smoke exposure during pregnancy and adverse perinatal, obstetric, and early childhood health outcom: a systematic review and meta-analysis.
-  <span style="color: darkblue;">*Environmental Research*</span>, 117527.
-  <a href="https://doi.org/10.1016/j.envres.2023.117527" target="_blank">Link</a>
-  
-- He, Q., Ye, T., Wang, W., Luo, M., **Song, Y.**, & Zhang, M. (2023).
-  Spatiotemporally continuous estimates of daily 1-km PM2. 5 concentrations and their long-term exposure in China from 2000 to 2020.
-  <span style="color: darkblue;">*Journal of Environmental Management*</span>, *342*, 118145.
-  <a href="https://doi.org/10.1016/j.jenvman.2023.118145" target="_blank">Link</a>
-  
-- Liu, D., Kwan, M. P., Kan, Z., **Song, Y.**, & Li, X. (2022).
-  Racial/Ethnic Inequity in Transit-Based Spatial Accessibility to COVID-19 Vaccination Sites.
-  <span style="color: darkblue;">*Journal of Racial and Ethnic Health Disparities*</span>, *10*, 1533–1541.
-  <a href="https://doi.org/10.1007/s40615-022-01339-x" target="_blank">Link</a>
-  
-- Tu, Y., Chen, B., Yu, L., **Song, Y.**, Wu, S., Li, M., Wei, H., Chen, T., Lang, W., Gong, P. & Xu, B. (2023). Raveling the nexus between urban expansion and cropland loss in China. <span style="color: darkblue;">*Landscape Ecology*</span>, *38*, 1869-1884. <a href="https://doi.org/10.1007/s10980-023-01653-7" target="_blank">Link</a>
-- Ho, H.C., **Song, Y.**, Cheng, W., Liu, Y., Guo, Y., Lu, S., Lum, T., Chiu, R.L.H., & Webster. C. (2023). How do forms and characteristics of Asian public housing neighbourhoods affect dementia risk among senior population? A cross-sectional study in Hong Kong. <span style="color: darkblue;">*Public Health*</span>, *219*, 44-52. <a href="https://doi.org/10.1016/j.puhe.2023.03.014" target="_blank">Link</a>
-- Liu, Y., Guo, Y., Lu, S., Chan, O. F., Chui, C., Ho, H. C., **Song, Y.**, Cheng, W., Chiu, R. L. H., Webster, C., & Lum, T. Y. (2023). Understanding the long-term effects of public open space on older adults’ functional ability and mental health. <span style="color: darkblue;">*Building and Environment*</span>, *234*, 110126. <a href="https://doi.org/10.1016/j.buildenv.2023.110126" target="_blank">Link</a>
-- Chan, O. F., Liu, Y., Guo, Y., Lu, S., Chui, H. K,. Ho, H. C., **Song, Y.**, Cheng, W., Chiu, L. H., & Webster, C. (2022). Neighborhood built environments and cognition in later life. <span style="color: darkblue;">*Aging & Mental Health*</span>, *27*(3), 466-474. <a href="https://doi.org/10.1080/13607863.2022.2046697" target="_blank">Link</a>
-- Jin, Y., So, H., Cerin, E., ... **Song, Y.**, Tam, L., & Wu, D. (2023). The temporal trend of disease burden attributable to metabolic risk factors in China, 1990–2019: An analysis of the Global Burden of Disease study. <span style="color: darkblue;">*Frontiers in Nutrition*</span>, *9*, 1035439. <a href="https://doi.org/10.1016/j.envres.2021.111974" target="_blank">Link</a>
-- He, Q., Wang, W., **Song, Y.**, Zhang, M., & Huang, B. (2023). Spatiotemporal high-resolution imputation modeling of aerosol optical depth for investigating its full-coverage variation in China from 2003 to 2020. <span style="color: darkblue;">*Atmospheric Research*</span>, *281*, 106481. <a href="https://doi.org/10.1016/j.atmosres.2022.106481" target="_blank">Link</a>
-
 ### 2022
+
+- <span style="color: #1A5276;">Global mortality associated with 33 bacterial pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019.</span> <a href="https://doi.org/10.1016/S0140-6736(22)02185-7" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Ikuta, K. S., Swetschinski, L. R., Aguilar, G. R., ... **Song, Y.**, ... Murray, C. J. L. N. & Mohsen N.</span><br>
+  <span style="color: darkblue;">*The Lancet*</span>, *400*(10369), 2221-2248, (2022).<br>
+
+- <span style="color: #1A5276;">Dynamic population mapping with AutoGluon.</span> <a href="https://doi.org/10.1007/s44212-022-00017-x" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">**Song, Y.**<sup>\*</sup>, Xu Y., Chen, B., He, Q., Tu, Y., Wang, F., & Cai, C.</span><br>
+  <span style="color: darkblue;">*Urban Informatics*</span>, *1*(1), 13, (2022).<br>
+
+- <span style="color: #1A5276;">Age–sex differences in the global burden of lower respiratory infections and risk factors, 1990–2019: results from the Global Burden of Disease Study 2019.</span> <a href="https://doi.org/10.1016/S1473-3099(22)00510-2" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Kyu, H. H., Vongpradith, A., Sirota, S. B., ... **Song, Y.**, ... & Murray, C. J. L.</span><br>
+  <span style="color: darkblue;">*The Lancet Infectious Diseases*</span>, *22*(11), 1626-1647, (2022).<br>
+
+- <span style="color: #1A5276;">The global burden of cancer attributable to risk factors, 2010–19: a systematic analysis for the Global Burden of Disease Study 2019.</span> <a href="https://doi.org/10.1016/S0140-6736(22)01438-6" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Tran, K. B., Lang, J. J., Compton, K., ... **Song, Y.**, ... Force, L. M., & Murray, C. J. L.</span><br>
+  <span style="color: darkblue;">*The Lancet*</span>, *400*(10352), 563-591, (2022).<br>
+
+- <span style="color: #1A5276;">Contrasting inequality in human exposure to greenspace between cities of Global North and Global South.</span> <a href="https://doi.org/10.1038/s41467-022-32258-4" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Chen, B., Wu, S., **Song, Y.**, Webster, C., Xu, B., & Gong, P.</span><br>
+  <span style="color: darkblue;">*Nature Communications*</span>, *13*, 4636, (2022).<br>
+
+- <span style="color: #1A5276;">Spatial uncertainty and environment-health association: An empirical study of osteoporosis among “old residents” in public housing estates across a hilly environment.</span> <a href="https://doi.org/10.1016/j.socscimed.2022.115155" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Ho, H. C., Cheng, W., **Song, Y.**, Liu, Y., Guo, Y., Lu, S., Lum, T. Y., Chiu, R., & Webster, C.</span><br>
+  <span style="color: darkblue;">*Social Science & Medicine*</span>, *306*, 115155, (2022).<br>
+
+- <span style="color: #1A5276;">Beyond green environments: multi-scale difference in human exposure to greenspace in China.</span> <a href="https://doi.org/10.1016/j.envint.2022.107348" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Chen, B., Tu, Y., Wu, S., **Song, Y.**, Jin, Y., Webster, C., Xu, B., & Gong, P.</span><br>
+  <span style="color: darkblue;">*Environment International*</span>, *166*, 107348, (2022).<br>
+
+- <span style="color: #1A5276;">Population-level risks of alcohol consumption by amount, geography, age, sex, and year: a systematic analysis for the Global Burden of Disease Study 2020.</span> <a href="https://doi.org/10.1016/S0140-6736(22)00847-9" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Bryazka, D., Reitsma, M. B., Griswold, M. G., ... **Song, Y.**, ... & Gakidou, E.</span><br>
+  <span style="color: darkblue;">*The Lancet*</span>, *400*(10347), 185-235, (2022).<br>
+
+- <span style="color: #1A5276;">Inter- and intra-racial/ethnic disparities in walking accessibility to grocery stores.</span> <a href="https://doi.org/10.1111/area.12796" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Liu, D., Kwan, M. P., Kan, Z., **Song, Y.**, & Li, X.</span><br>
+  <span style="color: darkblue;">*Area*</span>, *54*(4), 627-637, (2022).<br>
+
+- <span style="color: #1A5276;">Urban greenery mitigates the negative effect of urban density on older adults' life satisfaction: Evidence from Shanghai, China.</span> <a href="https://doi.org/10.1016/j.cities.2022.103607" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">He, D., Miao, J., Lu, Y., **Song, Y.**, Chen, L., & Liu, Y.</span><br>
+  <span style="color: darkblue;">*Cities*</span>, *124*, 103607, (2022).<br>
+
+- <span style="color: #1A5276;">Analyzing income-based inequality in transit nodal accessibility.</span> <a href="https://doi.org/10.1016/j.tbs.2021.11.005" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Liu, D., Kwan, M. P., Huang, J., Kan, Z., **Song, Y.**, & Li, X.</span><br>
+  <span style="color: darkblue;">*Travel Behaviour and Society*</span>, *27*, 57-64, (2022).<br>
+
+- <span style="color: #1A5276;">Associations between metabolic syndrome and anthropogenic heat emissions in northeastern China.</span> <a href="https://doi.org/10.1016/j.envres.2021.111974" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Cong, J., Wang, L. B., Liu, F. J., Qian, Z., McMillin, S. E., Vaughn, M. G., **Song, Y.**, Wang, S., Chen, S., Xiong, S., Shen, X., Sun, X., Zhou, Y., Ho, H. C., & Dong. G. H.</span><br>
+  <span style="color: darkblue;">*Environmental Research*</span>, *204*, 111974, (2022).<br>
+
+- <span style="color: #1A5276;">Identifying subcenters with a nonparametric method and ubiquitous point-of-interest data: A case study of 284 Chinese cities.</span> <a href="https://doi.org/10.1177/2399808321996705" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Long, Y., **Song, Y.**<sup>\*</sup>, & Chen, L.<sup>\*</sup></span><br>
+  <span style="color: darkblue;">*Environment and Planning B
+
 
 - Ikuta, K. S., Swetschinski, L. R., Aguilar, G. R., ... **Song, Y.**, ... Murray, C. J. L. N. & Mohsen N. (2022). Global mortality associated with 33 bacterial pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019. <span style="color: darkblue;">*The Lancet*</span>, *400*(10369), 2221-2248. <a href="https://doi.org/10.1016/S0140-6736(22)02185-7" target="_blank">Link</a>
 - **Song, Y.** <sup>\*</sup>, Xu Y., Chen, B., He, Q., Tu, Y., Wang, F., & Cai, C. (2022). Dynamic population mapping with AutoGluon. <span style="color: darkblue;">*Urban Informatics*</span>, *1*(1), 13. <a href="https://doi.org/10.1007/s44212-022-00017-x" target="_blank">Link</a>
