@@ -7,6 +7,7 @@ author_profile: true
 
 
 
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -72,7 +73,7 @@ author_profile: true
         .x-axis div {
             font-size: 12px;
             text-align: center;
-            width: 40px;
+            width: 20px; /* Changed from 40px to 20px */
         }
     </style>
 </head>
@@ -115,35 +116,35 @@ author_profile: true
                 <div>700</div>
                 <div>0</div>
             </div>
-            <div class="bar" style="left: 40px; height: 2px;">
+            <div class="bar" style="left: 25px; height: 2px;">
                 <span>44</span>
             </div>
-            <div class="bar" style="left: 90px; height: 8px;">
+            <div class="bar" style="left: 75px; height: 8px;">
                 <span>151</span>
             </div>
-            <div class="bar" style="left: 140px; height: 157px;">
+            <div class="bar" style="left: 125px; height: 157px;">
                 <span>2749</span>
             </div>
-            <div class="bar" style="left: 190px; height: 145px;">
+            <div class="bar" style="left: 175px; height: 145px;">
                 <span>2540</span>
             </div>
-            <div class="bar" style="left: 240px; height: 116px;">
+            <div class="bar" style="left: 225px; height: 116px;">
                 <span>2045</span>
             </div>
-            <div class="bar" style="left: 290px; height: 134px;">
+            <div class="bar" style="left: 275px; height: 134px;">
                 <span>2346</span>
             </div>
-            <div class="bar" style="left: 340px; height: 94px;">
+            <div class="bar" style="left: 325px; height: 94px;">
                 <span>1655</span>
             </div>
             <div class="x-axis">
-                <div>2018</div>
-                <div>2019</div>
-                <div>2020</div>
-                <div>2021</div>
-                <div>2022</div>
-                <div>2023</div>
-                <div>2024</div>
+                <div style="left: 25px;">2018</div>
+                <div style="left: 75px;">2019</div>
+                <div style="left: 125px;">2020</div>
+                <div style="left: 175px;">2021</div>
+                <div style="left: 225px;">2022</div>
+                <div style="left: 275px;">2023</div>
+                <div style="left: 325px;">2024</div>
             </div>
         </div>
     </div>
@@ -152,50 +153,9 @@ author_profile: true
 
 
 
-<div class="histogram">
-    <svg width="500" height="200">
-        <!-- X-axis labels -->
-        <text x="40" y="190" font-size="12">2018</text>
-        <text x="90" y="190" font-size="12">2019</text>
-        <text x="140" y="190" font-size="12">2020</text>
-        <text x="190" y="190" font-size="12">2021</text>
-        <text x="240" y="190" font-size="12">2022</text>
-        <text x="290" y="190" font-size="12">2023</text>
-        <text x="340" y="190" font-size="12">2024</text>
-
-        <!-- Bars -->
-        <rect x="40" y="158" width="20" height="2" fill="blue">
-            <title>44</title>
-        </rect>
-        <rect x="90" y="152" width="20" height="8" fill="blue">
-            <title>151</title>
-        </rect>
-        <rect x="140" y="3" width="20" height="157" fill="blue">
-            <title>2749</title>
-        </rect>
-        <rect x="190" y="15" width="20" height="145" fill="blue">
-            <title>2540</title>
-        </rect>
-        <rect x="240" y="44" width="20" height="116" fill="blue">
-            <title>2045</title>
-        </rect>
-        <rect x="290" y="26" width="20" height="134" fill="blue">
-            <title>2346</title>
-        </rect>
-        <rect x="340" y="66" width="20" height="94" fill="blue">
-            <title>1655</title>
-        </rect>
-    </svg>
-</div>
-
-
 ### •  ***Peer-reviewed Journal Articles***
 
 ### 2024
-
-- A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice.
-  Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B.M., Stewart, R., Choi, H. M., Bell, M.L. (2024).
-  <span style="color: darkblue;">*Environmental Research*</span>, 119550. <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">Link</a>
 
 - Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B.M., Stewart, R., Choi, H. M., Bell, M.L. (2024). A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice. <span style="color: darkblue;">*Environmental Research*</span>, 119550. <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">Link</a>
 - **Song, Y.**<sup>\*</sup>, Wu, S., Chen, B., & Bell, M. L. (2024). Unraveling near real-time spatial dynamics of population using geographical ensemble learning. <span style="color: darkblue;">*International Journal of Applied Earth Observation and Geoinformation*</span>, *130*, 103882. <a href="https://doi.org/10.1016/j.jag.2024.103882" target="_blank">Link</a>
