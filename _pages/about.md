@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome to my personal website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my personal website. My name is Yimeng SONG, currently a Postdoctoral Associate at Yale. My research interests lie primarily at the intersection of geospatial science (particularly geospatial big data and GeoAI) and environmental health. I received my PhD from The Chinese University of Hong Kong in 2019. Before joining Yale in July 2022, I served as a Research Assistant Professor at The Hong Kong Polytechnic University. 
+My name is Yimeng SONG, currently a Postdoctoral Associate at Yale. My research interests lie primarily at the intersection of geospatial science (particularly geospatial big data and GeoAI) and environmental health. I received my PhD from The Chinese University of Hong Kong in 2019. Before joining Yale in July 2022, I served as a Research Assistant Professor at The Hong Kong Polytechnic University. 
 
 🌏 Education:
 ------
