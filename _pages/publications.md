@@ -4,10 +4,36 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<sup>\*</sup> : Corresponding Author. <sup>\#</sup> : Co-first author.<br>
+Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAAAJ&hl=en" target="_blank">Google Scholar</a> = <span style="color: #1A5276;">11681</span> by July 2024<br>
 
-### •  ***Peer-reviewed Journal Articles***<br>
-( <sup>\*</sup> : Corresponding Author. <sup>\#</sup> : Co-first author.)<br>
-(Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAAAJ&hl=en" target="_blank">Google Scholar</a> = <span style="color: #1A5276;">11681</span> by July 2024)<br>
+
+### ***Peer-reviewed Journal Articles***<br>
+- <span style="color: #1A5276;">Unraveling near real-time spatial dynamics of population using geographical ensemble learning.</span> <a href="https://doi.org/10.1016/j.jag.2024.103882" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">**Song, Y.**<sup>\*</sup>, Wu, S., Chen, B., & Bell, M. L.</span><br>
+  <span style="color: darkblue;">*International Journal of Applied Earth Observation and Geoinformation*</span>, *130*, 103882, (2024).<br>
+
+- <span style="color: #1A5276;">Observed inequality in urban greenspace exposure in China.</span> <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">**Song, Y.**, Chen, B., Ho, C., H., Kwan, M. P., Liu, D., Wang, J., Cai, J., Li, X., Xu, Y., He, Q., Wang, H., Xu, Q., & Song, Y.</span><br>
+  <span style="color: darkblue;">*Environment International*</span>, *156*, 106778, (2021).<br>
+
+- <span style="color: #1A5276;">How does urban expansion impact people's exposure to green environments? A comparative study of 290 Chinese cities.</span> <a href="https://doi.org/10.1016/j.jclepro.2019.119018" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">**Song, Y.**, Chen, B., & Kwan, M. P.</span><br>
+  <span style="color: darkblue;">*Journal of Cleaner Production*</span>, *246*, 119018, (2020).<br>
+
+- <span style="color: #1A5276;">Dynamic assessment of PM2.5 exposure and health risk using remote sensing and geo-spatial big data.</span> <a href="https://doi.org/10.1016/j.envpol.2019.06.057" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">**Song, Y.**, Huang, B., He, Q., Chen, B., Wei, J., & Mahmood, R.</span><br>
+  <span style="color: darkblue;">*Environmental Pollution*</span>, *253*, 288-296, (2019).<br>
+
+- <span style="color: #1A5276;">Dynamic assessments of population exposure to urban greenspace using multi-source big data.</span> <a href="https://doi.org/10.1016/j.scitotenv.2018.04.061" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">**Song, Y.**, Huang, B., Cai, J., & Chen, B.</span><br>
+  <span style="color: darkblue;">*Science of the Total Environment*</span>, *634*, 1315-1325, (2018).<br>
+
+- <span style="color: #1A5276;">Using multi-source geospatial big data to identify the structure of polycentric cities.</span> <a href="https://doi.org/10.1016/j.rse.2017.06.039" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Cai, J., Huang, B.<sup>\*</sup>, & **Song, Y**<sup>\*</sup>.</span><br>
+  <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *202*, 210-221, (2017).<br>
+
+### ***Full list of Peer-reviewed Journal Articles***<br>
 
 ### 2024
 
@@ -233,7 +259,7 @@ author_profile: true
 
 ### **2019**
 
-- <span style="color: #1A5276;">Dynamic assessment of PM exposure and health risk using remote sensing and geo-spatial big data.</span> <a href="https://doi.org/10.1016/j.envpol.2019.06.057" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Dynamic assessment of PM2.5 exposure and health risk using remote sensing and geo-spatial big data.</span> <a href="https://doi.org/10.1016/j.envpol.2019.06.057" target="_blank">[Link]</a><br>
   <span style="color: #626567;">**Song, Y.**, Huang, B., He, Q., Chen, B., Wei, J., & Mahmood, R.</span><br>
   <span style="color: darkblue;">*Environmental Pollution*</span>, *253*, 288-296, (2019).<br>
 
