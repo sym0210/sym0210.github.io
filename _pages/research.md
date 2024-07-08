@@ -24,3 +24,5 @@ To tackle these challenges, we focus on the analysis of vast data collections ga
 While from a functional standpoint different urban systems may appear as being totally different from one another, research has shown that similar urban typologies often share fundamental properties. Such similarities suggest the existence of general and common organizing principles that explain the various outcomes.
 
 Our research approach is based on spatial analysis, with a focus on the intersections of people with the built environment and their social networks. A complex systems approach, with statistical physics methods empowered by AI, seeking to understand macroscopic phenomena in terms of the microscopic dynamics of the various systems. We convert data into knowledge to guide interventions and planning of cities.
+
+**Knowing the everyday patterns of mobility and energy consumption allows us to inform recovery from Climate scale disruptions. Our focus is climate adaptation via modeling exposure, extreme event prediction/response, and resilience to societal impacts.**
