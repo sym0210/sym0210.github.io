@@ -38,7 +38,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
 ### 2024
 
 - <span style="color: #1A5276;">A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice.</span> <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B. M., Stewart, R., Choi, H. M., Bell, M.L.</span><br>
+  <span style="color: #626567;">Son, J. Y., Heo, S., Byun, G., Foo, D., **Song, Y.**, Lewis, B. M., Stewart, R., Choi, H. M., Bell, M. L.</span><br>
   <span style="color: darkblue;">*Environmental Research*</span>, 119550, (2014).<br>
   
 - <span style="color: #1A5276;">Unraveling near real-time spatial dynamics of population using geographical ensemble learning.</span> <a href="https://doi.org/10.1016/j.jag.2024.103882" target="_blank">[Link]</a><br>
@@ -50,7 +50,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: darkblue;">*The Lancet*</span>, *403*(10440), 2133-2161, (2024).<br>
 
 - <span style="color: #1A5276;">Global burden of 288 causes of death and life expectancy decomposition in 204 countries and territories and 811 subnational locations, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021.</span> <a href="https://doi.org/10.1016/S0140-6736(24)00367-2" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Naghavi, M., Ong, K. L., Aali, A., ... **Song, Y.**, ... Wool, E. E. & Murray, C. J. L.</span><br>
+  <span style="color: #626567;">Naghavi, M., Ong, K. L., Aali, A., ... **Song, Y.**, ... Wool, E. E., & Murray, C. J. L.</span><br>
   <span style="color: darkblue;">*The Lancet*</span>, *403*(10440), 2100-2132, (2024).<br>
 
 - <span style="color: #1A5276;">Global fertility in 204 countries and territories, 1950–2021, with forecasts to 2100: a comprehensive demographic analysis for the Global Burden of Disease Study 2021.</span> <a href="https://doi.org/10.1016/S0140-6736(24)00550-6" target="_blank">[Link]</a><br>
@@ -58,7 +58,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: darkblue;">*The Lancet*</span>, *403*(10440), 2057-2099, (2024).<br>
 
 - <span style="color: #1A5276;">Global age-sex-specific mortality, life expectancy, and population estimates in 204 countries and territories and 811 subnational locations, 1950–2021, and the impact of the COVID-19 pandemic: a comprehensive demographic analysis for the Global Burden of Disease Study 2021.</span> <a href="https://doi.org/10.1016/S0140-6736(24)00476-8" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Schumacher, A. E., Kyu, H. H., Aali, A., ... **Song, Y.**, ... Lim, S. S. &, Murray, C. J. L.</span><br>
+  <span style="color: #626567;">Schumacher, A. E., Kyu, H. H., Aali, A., ... **Song, Y.**, ... Lim, S. S., & Murray, C. J. L.</span><br>
   <span style="color: darkblue;">*The Lancet*</span>, *403*(10440), 1989-2056, (2024).<br>
 
 - <span style="color: #1A5276;">Neighbourhood green space and loneliness in middle-aged and older adults: Evidence from WHO Study on Global Ageing and Adult Health in China.</span> <a href="https://doi.org/10.1016/j.ufug.2024.128324" target="_blank">[Link]</a><br>
@@ -66,11 +66,11 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: darkblue;">*Urban Forestry & Urban Greening*</span>, *95*, 128324, (2024).<br>
 
 - <span style="color: #1A5276;">Global, regional, and national burden of disorders affecting the nervous system, 1990–2021: a systematic analysis for the Global Burden of Disease Study 2021.</span> <a href="https://doi.org/10.1016/S1474-4422(24)00038-3" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Steinmetz, J. D., Seeher, K. M., Schiess, N., ... **Song, Y.**, ... Ong, K. L., Valery L Feigin, V. L., Vos, T., & Dua, T.</span><br>
+  <span style="color: #626567;">Steinmetz, J. D., Seeher, K. M., Schiess, N., ... **Song, Y.**, ... Ong, K. L., Valery, L., Feigin, V. L., Vos, T., & Dua, T.</span><br>
   <span style="color: darkblue;">*The Lancet Neurology*</span>, *23*(4), 344-381, (2024).<br>
 
 - <span style="color: #1A5276;">Wildfire risk for global wildland–urban interface (WUI) areas.</span> <a href="https://doi.org/10.1038/s41893-024-01291-0" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Chen, B., Wu, S., Jin, Y., **Song, Y.**, Wu, C., Venevsky, S., Xu, B., Webster, C., & Gong P.</span><br>
+  <span style="color: #626567;">Chen, B., Wu, S., Jin, Y., **Song, Y.**, Wu, C., Venevsky, S., Xu, B., Webster, C., & Gong, P.</span><br>
   <span style="color: darkblue;">*Nature Sustainability*</span>, *7*, 474–484, (2024).<br>
 
 ### 2023
@@ -92,7 +92,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: darkblue;">*Landscape Ecology*</span>, *38*, 1869-1884, (2023).<br>
 
 - <span style="color: #1A5276;">How do forms and characteristics of Asian public housing neighbourhoods affect dementia risk among senior population? A cross-sectional study in Hong Kong.</span> <a href="https://doi.org/10.1016/j.puhe.2023.03.014" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Ho, H.C., **Song, Y.**, Cheng, W., Liu, Y., Guo, Y., Lu, S., Lum, T., Chiu, R.L.H., & Webster. C.</span><br>
+  <span style="color: #626567;">Ho, H. C., **Song, Y.**, Cheng, W., Liu, Y., Guo, Y., Lu, S., Lum, T., Chiu, R. L. H., & Webster, C.</span><br>
   <span style="color: darkblue;">*Public Health*</span>, *219*, 44-52, (2023).<br>
 
 - <span style="color: #1A5276;">Understanding the long-term effects of public open space on older adults’ functional ability and mental health.</span> <a href="https://doi.org/10.1016/j.buildenv.2023.110126" target="_blank">[Link]</a><br>
@@ -114,11 +114,11 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
 ### 2022
 
 - <span style="color: #1A5276;">Global mortality associated with 33 bacterial pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019.</span> <a href="https://doi.org/10.1016/S0140-6736(22)02185-7" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Ikuta, K. S., Swetschinski, L. R., Aguilar, G. R., ... **Song, Y.**, ... Murray, C. J. L. N. & Mohsen N.</span><br>
+  <span style="color: #626567;">Ikuta, K. S., Swetschinski, L. R., Aguilar, G. R., ... **Song, Y.**, ... Murray, C. J. L. N. & Mohsen, N.</span><br>
   <span style="color: darkblue;">*The Lancet*</span>, *400*(10369), 2221-2248, (2022).<br>
 
 - <span style="color: #1A5276;">Dynamic population mapping with AutoGluon.</span> <a href="https://doi.org/10.1007/s44212-022-00017-x" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">**Song, Y.**<sup>\*</sup>, Xu Y., Chen, B., He, Q., Tu, Y., Wang, F., & Cai, C.</span><br>
+  <span style="color: #626567;">**Song, Y.**<sup>\*</sup>, Xu, Y., Chen, B., He, Q., Tu, Y., Wang, F., & Cai, C.</span><br>
   <span style="color: darkblue;">*Urban Informatics*</span>, *1*(1), 13, (2022).<br>
 
 - <span style="color: #1A5276;">Age–sex differences in the global burden of lower respiratory infections and risk factors, 1990–2019: results from the Global Burden of Disease Study 2019.</span> <a href="https://doi.org/10.1016/S1473-3099(22)00510-2" target="_blank">[Link]</a><br>
@@ -172,7 +172,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: darkblue;">*The Journals of Gerontology: Series B*</span>, *76*(10), 2143-2154, (2021).<br>
 
 - <span style="color: #1A5276;">Observed inequality in urban greenspace exposure in China.</span> <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">**Song, Y.**, Chen, B., Ho, C., H., Kwan, M. P., Liu, D., Wang, J., Cai, J., Li, X., Xu, Y., He, Q., Wang, H., Xu, Q., & Song, Y.</span><br>
+  <span style="color: #626567;">**Song, Y.**, Chen, B., Ho, C. H., Kwan, M. P., Liu, D., Wang, J., Cai, J., Li, X., Xu, Y., He, Q., Wang, H., Xu, Q., & Song, Y.</span><br>
   <span style="color: darkblue;">*Environment International*</span>, *156*, 106778, (2021).<br>
 
 - <span style="color: #1A5276;">Satellite-derived 1-km estimates and long-term trends of PM concentrations in China from 2000 to 2018.</span> <a href="https://doi.org/10.1016/j.envint.2021.106726" target="_blank">[Link]</a><br>
@@ -180,7 +180,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: darkblue;">*Environment International*</span>, *156*, 106726, (2021).<br>
 
 - <span style="color: #1A5276;">Early-life exposure to submicron particulate air pollution in relation to asthma development in Chinese preschool children.</span> <a href="https://doi.org/10.1016/j.jaci.2021.02.030" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Zhang, Y., Wei J., Shi Y., Quan C., Ho, H. C., **Song, Y.**, & Zhang, L.</span><br>
+  <span style="color: #626567;">Zhang, Y., Wei J., Shi Y., Quan, C., Ho, H. C., **Song, Y.**, & Zhang, L.</span><br>
   <span style="color: darkblue;">*Journal of Allergy and Clinical Immunology*</span>, *148(3)*, 771-782, (2021).<br>
 
 - <span style="color: #1A5276;">Mapping essential urban land use categories with open big data: Results for five metropolitan areas in the United States of America.</span> <a href="https://doi.org/10.1016/j.isprsjprs.2021.06.010" target="_blank">[Link]</a><br>
