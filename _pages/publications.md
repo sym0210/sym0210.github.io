@@ -8,7 +8,7 @@ author_profile: true
 Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAAAJ&hl=en" target="_blank">Google Scholar</a> = <span style="color: #1A5276;">11681</span> by July 2024<br>
 
 
-### ***Peer-reviewed Journal Articles***<br>
+### ***Featured Publications***<br>
 - <span style="color: #1A5276;">Unraveling near real-time spatial dynamics of population using geographical ensemble learning.</span> <a href="https://doi.org/10.1016/j.jag.2024.103882" target="_blank">[Link]</a><br>
   <span style="color: #626567;">**Song, Y.**<sup>\*</sup>, Wu, S., Chen, B., & Bell, M. L.</span><br>
   <span style="color: darkblue;">*International Journal of Applied Earth Observation and Geoinformation*</span>, *130*, 103882, (2024).<br>
@@ -294,3 +294,8 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
 - <span style="color: #1A5276;">Using multi-source geospatial big data to identify the structure of polycentric cities.</span> <a href="https://doi.org/10.1016/j.rse.2017.06.039" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Cai, J., Huang, B.<sup>\*</sup>, & **Song, Y**<sup>\*</sup>.</span><br>
   <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *202*, 210-221, (2017).<br>
+
+### **Manuscripts under review**
+- <span style="color: #1A5276;">Delineating urbanicity and rurality: Impact on environmental exposure assessment.</span> <br>
+  <span style="color: #626567;">**Song, Y.**<sup>\*</sup>, Deziel, N. C., & Bell, M. L.</span><br>
+  <span style="color: darkblue;">*Environmental Science & Technology*</span>, (2024).<br>
