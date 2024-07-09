@@ -9,6 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+🌏 Education:
+------
+- 2019: **Ph.D.** Geography and Resource Management, *The Chinese University of Hong Kong*
+- 2018: **Visiting Ph.D. Student**, *University of Illinois at Urbana-Champaign*
+- 2012: **B.A.** Economics, *Peking University*
+- 2012: **B.Eng.** Land Resources Management, *China University of Geosciences (Beijing)*
+  
+🦧 Appointments:
+------
+- 2022 – now: **Postdoctoral Associate**, *Yale University*<br>
+- 2021 – 2022: **Research Assistant Professor**, *The Hong Kong Polytechnic University*
+- 2019 – 2021: **Postdoctoral Fellow**, *The University of Hong Kong*
+- 2014 – 2015: **Research Assistant**, *The Chinese University of Hong Kong*
 Education
 ------
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
