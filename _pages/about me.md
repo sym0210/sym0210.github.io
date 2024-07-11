@@ -11,39 +11,29 @@ redirect_from:
 
 🌏 Education:
 ------
-- 2019: **Ph.D.** Geography and Resource Management, *The Chinese University of Hong Kong*
+- 2019: **Ph.D.** in Geography and Resource Management, *The Chinese University of Hong Kong*
 - 2018: **Visiting Ph.D. Student**, *University of Illinois at Urbana-Champaign*
-- 2012: **B.A.** Economics, *Peking University*
-- 2012: **B.Eng.** Land Resources Management, *China University of Geosciences (Beijing)*
+- 2014: **M.Sc.** in Geo-Information Science, *The Chinese University of Hong Kong*
+- 2012: **B.A.** in Economics, *Peking University*
+- 2012: **B.Eng.** in Land Resources Management, *China University of Geosciences (Beijing)*
   
-🦧 Appointments:
+🌴 Professional Appointments:
 ------
-- 2022 – now: **Postdoctoral Associate**, *Yale University*<br>
+- 2022 – now: **Postdoctoral Associate**, *Yale University*
 - 2021 – 2022: **Research Assistant Professor**, *The Hong Kong Polytechnic University*
 - 2019 – 2021: **Postdoctoral Fellow**, *The University of Hong Kong*
 - 2014 – 2015: **Research Assistant**, *The Chinese University of Hong Kong*
-Education
+
+🦧 Honors & Awards:
 ------
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- 2023: **World's Top 2% Scientists' List**, *Stanford University/Elsevier*
+- 2023: **IJERPH 2023 Travel Award**, *International Journal of Environmental Research and Public Health* (CHF 500)
+- 2019: **Best Tutor Award**, *The Chinese University of Hong Kongr* (HKD 1,000)
+- 2017: **Seed Funding Support for Thesis Researcht**, *The Chinese University of Hong Kong* (HKD 5,000)
+- 2017: **Travel Subsidy Award**, *1st LIESMARS International Graduate Workshop on Geo-Informatics* (RMB 3,000)
+- 2017: **Global Scholarship Programme for Research Excellence**, *The Chinese University of Hong Kong* (HKD 39,000)
 
-Work experience
-------
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ------
