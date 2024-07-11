@@ -29,7 +29,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">**Song, Y.**, Huang, B., Cai, J., & Chen, B.</span><br>
   <span style="color: darkblue;">*Science of the Total Environment*</span>, *634*, 1315-1325, (2018).<br>
 
-- <span style="color: #1A5276;">Using multi-source geospatial big data to identify the structure of polycentric cities.</span> <a href="https://doi.org/10.1016/j.rse.2017.06.039" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Using multi-source geospatial big data to identify the structure of polycentric cities.</span> <a href="https://doi.org/10.1016/j.rse.2017.06.039" target="_blank">[Link]</a>🏆<br>
   <span style="color: #626567;">Cai, J., Huang, B.<sup>\*</sup>, & **Song, Y**<sup>\*</sup>.</span><br>
   <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *202*, 210-221, (2017).<br>
 
@@ -225,7 +225,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
 
 ### **2020**
 
-- <span style="color: #1A5276;">An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China.</span> <a href="https://doi.org/10.1126/science.abb6105" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China.</span> <a href="https://doi.org/10.1126/science.abb6105" target="_blank">[Link]</a>🏆<br>
   <span style="color: #626567;">Tian, H., Liu, Y., Li, Y., Wu, C., Chen, B., Kraemer, M., Li, B., Cai, J., Xu, B., Yang, Q., Wang, B., Yang, P., Cui, Y., **Song, Y.**, Zheng, P., Wang, Q., Bjornstad, O., Yang, R., Grenfell, B., Pybus, O., & Dye, C.</span><br>
   <span style="color: darkblue;">*Science*</span>, *368*(6491), 638-642, (2020).<br>
 
@@ -233,7 +233,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">Chen, B.<sup>\#</sup>, **Song, Y.**<sup>\#</sup>, Huang, B., & Xu, B.</span><br>
   <span style="color: darkblue;">*Science of Remote Sensing*</span>, *1*, 100003, (2020).<br>
 
-- <span style="color: #1A5276;">Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV-2).</span> <a href="https://doi.org/10.1126/science.abb3221" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV-2).</span> <a href="https://doi.org/10.1126/science.abb3221" target="_blank">[Link]</a>🏆<br>
   <span style="color: #626567;">Li, R., Pei, S., Chen, B., **Song, Y.**, Zhang, T., Yang, W., & Shaman, J.</span><br>
   <span style="color: darkblue;">*Science*</span>, *368*(6490), 489-493, (2020).<br>
 
@@ -242,10 +242,10 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: darkblue;">*Proceedings of the National Academy of Sciences*</span>, *117*(42), 26151-26157, (2020).<br>
 
 - <span style="color: #1A5276;">Improved 1 km resolution PM2.5 estimates across China using enhanced space–time extremely randomized trees.</span> <a href="https://doi.org/10.5194/acp-20-3273-2020" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Wei, J., Li, Z., Huang, W., Xue, W., Sun, L., Guo, J., Peng, Y., Li, J., Lyapustine, A, Liu, L., Wu, H., & **Song, Y.**</span><br>
+  <span style="color: #626567;">Wei, J., Li, Z., Huang, W., Xue, W., Sun, L., Guo, J., Peng, Y., Li, J., Lyapustine, A, Liu, L., Wu, H., & **Song, Y.**</span>🏆<br>
   <span style="color: darkblue;">*Atmospheric Chemistry and Physics*</span>, *20*(6), 3273-3289, (2020).<br>
 
-- <span style="color: #1A5276;">Mapping essential urban land use categories in China (EULUC-China): Preliminary results for 2018.</span> <a href="https://doi.org/10.1016/j.scib.2019.12.007" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Mapping essential urban land use categories in China (EULUC-China): Preliminary results for 2018.</span> <a href="https://doi.org/10.1016/j.scib.2019.12.007" target="_blank">[Link]</a>🏆<br>
   <span style="color: #626567;">Gong, P., Chen, B., Li, X., Liu, H., …, **Song, Y.**, …, & Xu, B.</span><br>
   <span style="color: darkblue;">*Science Bulletin*</span>, *65*(3), 182-187, (2020).<br>
 
@@ -270,10 +270,10 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
 ### **2018**
 
 - <span style="color: #1A5276;">Spatial and temporal variations of spatial population accessibility to public hospitals: A case study of rural-urban comparison.</span> <a href="https://doi.org/10.1080/15481603.2018.1446713" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Song, Y., Tan, Y., **Song, Y.**, Wu, P., Cheng, J. C., Kim, M. J., & Wang, X.</span><br>
+  <span style="color: #626567;">Song, Y., Tan, Y., **Song, Y.**, Wu, P., Cheng, J. C., Kim, M. J., & Wang, X.</span>🏆<br>
   <span style="color: darkblue;">*GIScience & Remote Sensing*</span>, *55*(5), 718-744, (2018).<br>
 
-- <span style="color: #1A5276;">Urban land-use mapping using a deep convolutional neural network with high spatial resolution multispectral remote sensing imagery.</span> <a href="https://doi.org/10.1016/j.rse.2018.04.050" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Urban land-use mapping using a deep convolutional neural network with high spatial resolution multispectral remote sensing imagery.</span> <a href="https://doi.org/10.1016/j.rse.2018.04.050" target="_blank">[Link]</a>🏆<br>
   <span style="color: #626567;">Huang, B., Zhao, B., & **Song, Y.**</span><br>
   <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *214*, 73-86, (2018).<br>
 
