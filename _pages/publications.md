@@ -30,7 +30,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: darkblue;">*Science of the Total Environment*</span>, *634*, 1315-1325, (2018).<br>
 
 - <span style="color: #1A5276;">Using multi-source geospatial big data to identify the structure of polycentric cities.</span> <a href="https://doi.org/10.1016/j.rse.2017.06.039" target="_blank">[Link]</a>🏆<br>
-  <span style="color: #626567;">Cai, J., Huang, B.<sup>\*</sup>, & **Song, Y**<sup>\*</sup>.</span><br>
+  <span style="color: #626567;">Cai, J., Huang, B.<sup>\*</sup>, & **Song, Y.**<sup>\*</sup></span><br>
   <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *202*, 210-221, (2017).<br>
 
 ### ***Full list of Peer-reviewed Journal Articles***<br>
