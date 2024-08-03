@@ -13,7 +13,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">**Song, Y.**<sup>\*</sup>, Wu, S., Chen, B., & Bell, M. L.</span><br>
   <span style="color: darkblue;">*International Journal of Applied Earth Observation and Geoinformation*</span>, *130*, 103882, (2024).<br>
 
-- <span style="color: #1A5276;">Observed inequality in urban greenspace exposure in China.</span> <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">[Link]</a> <a href="https://pdf.sciencedirectassets.com/271763/1-s2.0-S0160412021X00104/1-s2.0-S0160412021004037/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEL7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCQaRKcXs%2BDPt%2FFrHoI%2BciH%2FDRv6wr0Cs4kW%2FCa5Wrn7wIhALCa0oxBkLz7aPRL600%2BXztrbUXsJ%2Fd146RPmb6caDKHKrsFCKf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEQBRoMMDU5MDAzNTQ2ODY1IgxpFZitSbg%2B3i8qR%2FEqjwUMPob01SbivyaVNJ5ismYIys%2Bq06t1I8sfb9%2BU6H00xaQBWihx7hWIFRhNm6PyLoG%2B9yHx5CmBG%2Fbh0XHRfvaeiDJ7fHzp3LnFnIdvsJcwCmyMeOg9ouoM%2Bhm%2BPRyAwGQnQQnKBKfIqsQEwFSPL0sNELp0g4RHKfy%2Bxkon7agy%2F1uqQaVyMQVV%2FDgEv6iipzF2Nk%2BzWMuIGSb6f16mf1uvdCD0NtXsbhWk0WDz8YciG1QeoIVlAmQW9X9wE9BMYNSGqNF25%2FhRs6uO3nwgNw4ygv9qhC09VquDPq3AQLTA1wWLbEj2%2BS2Fo0vAeF%2FCwDkRLzjfT9MeZfVzgCg2krKwufa1FZRQRn8TdbwCx78XP2NLaYvA0HlR5BgCKXPnJcW06lkpnwyPZxeR%2BuQR3bM%2BMwNptlyfRFGkqU3fQOy3y%2F5nnywYkHltYSB%2FD%2BxFXhtBaFJQ%2FvE3kmzdowPWLjQOnW9SNiZjHTAMqj%2FJIC9NnXrpS%2FZ5vO0jWpblN1FKo8id405UOc1nhYJlJuSdq4PM4Cq0OGMSdv8%2F2Xkp%2F%2FFqR5O3AG9uX1wX1RaV%2BQ%2Fkgtm7PTaR8wG0G8MFeP6v3aVe2KklnyGEp7qwilG7fgZ2%2Falao0ZLzmKghBWyfGor0SQcpAwvbpzOpFBp82KVIwe6H%2FeCzqAdnmLilUrCEo3X1Cf%2B3z9S3ShtLgJJxdxl%2B8z1a%2BPoLORnw1DIKMznFZJxKMH0TdCg2T81RITwST9C6q5XMYSwREGbUpqS2w7vJY8WRYlvoehKsbhjVLXDRxgmF%2BGgDZfmsQP5ZTrv%2BPPezqgKIeJ3BCSM7xqH18l3W7TB3j84eDoOfr4Z26kYjdKWbD6bRy2vv3SuarAERYDcMP7luLUGOrABxW%2F19hRf3v%2FkpQf7gSmGeT5h6usoFmV1Vi3s%2BkbLgGRPatFO7I4rIPxnk7x639O%2F5WasL82kEmCyQgQK28s%2BiKQLpVgQlrVXMLOoL9h84v%2F1xQXbjWyOTcjlCAdt2%2FJmshhdK1YyCJI2bZS%2BgqCuZKHNBG7Bq%2Fpht%2FJVS7PjxxneCHyPpSBNOFWPtfkjqZ4o9l7r1nojGbdyakuJL6QsxHNCR%2Ffikvmrjzw3W5ykIc4%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240803T145748Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYR7HL3RNE%2F20240803%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f6dc1e0c4c92fd5370edf8b9afdd793d4ed5282f48bf938b4585ebac2a190c59&hash=6cb94bc6ebbd2389b4121d27705036adbee79620b58aa70d555cf623da602b93&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0160412021004037&tid=spdf-ee4eda0b-5cde-4c07-b3e1-389bb86eee88&sid=17e4b7a87ac786494f294bf6b9dc9a3a1b05gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=15165b050652525f5a&rr=8ad72986db2f0f49&cc=us" target="_blank">[PDF]</a>🏆<br>
+- <span style="color: #1A5276;">Observed inequality in urban greenspace exposure in China.</span> 🏆 <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">[Link]</a><br>
   <span style="color: #626567;">**Song, Y.**, Chen, B., Ho, C., H., Kwan, M. P., Liu, D., Wang, J., Cai, J., Li, X., Xu, Y., He, Q., Wang, H., Xu, Q., & Song, Y.</span><br>
   <span style="color: darkblue;">*Environment International*</span>, *156*, 106778, (2021).<br>
 
@@ -29,7 +29,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">**Song, Y.**, Huang, B., Cai, J., & Chen, B.</span><br>
   <span style="color: darkblue;">*Science of the Total Environment*</span>, *634*, 1315-1325, (2018).<br>
 
-- <span style="color: #1A5276;">Using multi-source geospatial big data to identify the structure of polycentric cities.</span> <a href="https://doi.org/10.1016/j.rse.2017.06.039" target="_blank">[Link]</a>🏆<br>
+- <span style="color: #1A5276;">Using multi-source geospatial big data to identify the structure of polycentric cities.</span> 🏆 <a href="https://doi.org/10.1016/j.rse.2017.06.039" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Cai, J., Huang, B.<sup>\*</sup>, & **Song, Y.**<sup>\*</sup></span><br>
   <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *202*, 210-221, (2017).<br>
 
@@ -113,7 +113,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
 
 ### 2022
 
-- <span style="color: #1A5276;">Global mortality associated with 33 bacterial pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019.</span> <a href="https://doi.org/10.1016/S0140-6736(22)02185-7" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Global mortality associated with 33 bacterial pathogens in 2019: a systematic analysis for the Global Burden of Disease Study 2019.</span> 🏆🔥 <a href="https://doi.org/10.1016/S0140-6736(22)02185-7" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Ikuta, K. S., Swetschinski, L. R., Aguilar, G. R., ... **Song, Y.**, ... Murray, C. J. L. N. & Mohsen, N.</span><br>
   <span style="color: darkblue;">*The Lancet*</span>, *400*(10369), 2221-2248, (2022).<br>
 
@@ -125,11 +125,11 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">Kyu, H. H., Vongpradith, A., Sirota, S. B., ... **Song, Y.**, ... & Murray, C. J. L.</span><br>
   <span style="color: darkblue;">*The Lancet Infectious Diseases*</span>, *22*(11), 1626-1647, (2022).<br>
 
-- <span style="color: #1A5276;">The global burden of cancer attributable to risk factors, 2010–19: a systematic analysis for the Global Burden of Disease Study 2019.</span> <a href="https://doi.org/10.1016/S0140-6736(22)01438-6" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">The global burden of cancer attributable to risk factors, 2010–19: a systematic analysis for the Global Burden of Disease Study 2019.</span> 🏆🔥 <a href="https://doi.org/10.1016/S0140-6736(22)01438-6" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Tran, K. B., Lang, J. J., Compton, K., ... **Song, Y.**, ... Force, L. M., & Murray, C. J. L.</span><br>
   <span style="color: darkblue;">*The Lancet*</span>, *400*(10352), 563-591, (2022).<br>
 
-- <span style="color: #1A5276;">Contrasting inequality in human exposure to greenspace between cities of Global North and Global South.</span> <a href="https://doi.org/10.1038/s41467-022-32258-4" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Contrasting inequality in human exposure to greenspace between cities of Global North and Global South.</span> 🏆 <a href="https://doi.org/10.1038/s41467-022-32258-4" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Chen, B., Wu, S., **Song, Y.**, Webster, C., Xu, B., & Gong, P.</span><br>
   <span style="color: darkblue;">*Nature Communications*</span>, *13*, 4636, (2022).<br>
 
@@ -141,7 +141,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">Chen, B., Tu, Y., Wu, S., **Song, Y.**, Jin, Y., Webster, C., Xu, B., & Gong, P.</span><br>
   <span style="color: darkblue;">*Environment International*</span>, *166*, 107348, (2022).<br>
 
-- <span style="color: #1A5276;">Population-level risks of alcohol consumption by amount, geography, age, sex, and year: a systematic analysis for the Global Burden of Disease Study 2020.</span> <a href="https://doi.org/10.1016/S0140-6736(22)00847-9" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Population-level risks of alcohol consumption by amount, geography, age, sex, and year: a systematic analysis for the Global Burden of Disease Study 2020.</span> 🏆🔥 <a href="https://doi.org/10.1016/S0140-6736(22)00847-9" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Bryazka, D., Reitsma, M. B., Griswold, M. G., ... **Song, Y.**, ... & Gakidou, E.</span><br>
   <span style="color: darkblue;">*The Lancet*</span>, *400*(10347), 185-235, (2022).<br>
 
@@ -149,7 +149,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">Liu, D., Kwan, M. P., Kan, Z., **Song, Y.**, & Li, X.</span><br>
   <span style="color: darkblue;">*Area*</span>, *54*(4), 627-637, (2022).<br>
 
-- <span style="color: #1A5276;">Urban greenery mitigates the negative effect of urban density on older adults' life satisfaction: Evidence from Shanghai, China.</span> <a href="https://doi.org/10.1016/j.cities.2022.103607" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Urban greenery mitigates the negative effect of urban density on older adults' life satisfaction: Evidence from Shanghai, China.</span> 🏆 <a href="https://doi.org/10.1016/j.cities.2022.103607" target="_blank">[Link]</a><br>
   <span style="color: #626567;">He, D., Miao, J., Lu, Y., **Song, Y.**, Chen, L., & Liu, Y.</span><br>
   <span style="color: darkblue;">*Cities*</span>, *124*, 103607, (2022).<br>
 
@@ -171,7 +171,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">Lu, S., Liu, Y., Guo, Y., Ho, H. C., **Song, Y.**, Cheng, W., Chui, C., Chan, O., Chiu, R. L. H., Webster, C., & Lum, T. Y.</span><br>
   <span style="color: darkblue;">*The Journals of Gerontology: Series B*</span>, *76*(10), 2143-2154, (2021).<br>
 
-- <span style="color: #1A5276;">Observed inequality in urban greenspace exposure in China.</span> <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Observed inequality in urban greenspace exposure in China.</span> 🏆 <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">[Link]</a><br>
   <span style="color: #626567;">**Song, Y.**, Chen, B., Ho, C. H., Kwan, M. P., Liu, D., Wang, J., Cai, J., Li, X., Xu, Y., He, Q., Wang, H., Xu, Q., & Song, Y.</span><br>
   <span style="color: darkblue;">*Environment International*</span>, *156*, 106778, (2021).<br>
 
@@ -225,7 +225,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
 
 ### **2020**
 
-- <span style="color: #1A5276;">An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China.</span> <a href="https://doi.org/10.1126/science.abb6105" target="_blank">[Link]</a>🏆<br>
+- <span style="color: #1A5276;">An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China.</span> 🏆🔥 <a href="https://doi.org/10.1126/science.abb6105" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Tian, H., Liu, Y., Li, Y., Wu, C., Chen, B., Kraemer, M., Li, B., Cai, J., Xu, B., Yang, Q., Wang, B., Yang, P., Cui, Y., **Song, Y.**, Zheng, P., Wang, Q., Bjornstad, O., Yang, R., Grenfell, B., Pybus, O., & Dye, C.</span><br>
   <span style="color: darkblue;">*Science*</span>, *368*(6491), 638-642, (2020).<br>
 
@@ -233,7 +233,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">Chen, B.<sup>\#</sup>, **Song, Y.**<sup>\#</sup>, Huang, B., & Xu, B.</span><br>
   <span style="color: darkblue;">*Science of Remote Sensing*</span>, *1*, 100003, (2020).<br>
 
-- <span style="color: #1A5276;">Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV-2).</span> <a href="https://doi.org/10.1126/science.abb3221" target="_blank">[Link]</a>🏆<br>
+- <span style="color: #1A5276;">Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV-2).</span> 🏆🔥 <a href="https://doi.org/10.1126/science.abb3221" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Li, R., Pei, S., Chen, B., **Song, Y.**, Zhang, T., Yang, W., & Shaman, J.</span><br>
   <span style="color: darkblue;">*Science*</span>, *368*(6490), 489-493, (2020).<br>
 
@@ -241,11 +241,11 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">Li, R., Chen, B, Zhang, T., Ren, Z., **Song, Y.**, Xiao, Y., Hou, L., Cai, J., Xu, B., Chan, K. K. Y., Tu, Y., Yang, J., Liu, Z., Shen, C., Wang, C., Xu, L., Liu, Q., Bao, S., Zhang, J., Bai, Y., Deng, K., Zhang, W., Huang, W., Whittington, J. D., Stenseth, N. C., Guan, D., Gong, P., & Xu, B.</span><br>
   <span style="color: darkblue;">*Proceedings of the National Academy of Sciences*</span>, *117*(42), 26151-26157, (2020).<br>
 
-- <span style="color: #1A5276;">Improved 1 km resolution PM2.5 estimates across China using enhanced space–time extremely randomized trees.</span> <a href="https://doi.org/10.5194/acp-20-3273-2020" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Wei, J., Li, Z., Huang, W., Xue, W., Sun, L., Guo, J., Peng, Y., Li, J., Lyapustine, A, Liu, L., Wu, H., & **Song, Y.**</span>🏆<br>
+- <span style="color: #1A5276;">Improved 1 km resolution PM2.5 estimates across China using enhanced space–time extremely randomized trees.</span> 🏆 <a href="https://doi.org/10.5194/acp-20-3273-2020" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Wei, J., Li, Z., Huang, W., Xue, W., Sun, L., Guo, J., Peng, Y., Li, J., Lyapustine, A, Liu, L., Wu, H., & **Song, Y.**</span><br>
   <span style="color: darkblue;">*Atmospheric Chemistry and Physics*</span>, *20*(6), 3273-3289, (2020).<br>
 
-- <span style="color: #1A5276;">Mapping essential urban land use categories in China (EULUC-China): Preliminary results for 2018.</span> <a href="https://doi.org/10.1016/j.scib.2019.12.007" target="_blank">[Link]</a>🏆<br>
+- <span style="color: #1A5276;">Mapping essential urban land use categories in China (EULUC-China): Preliminary results for 2018.</span> 🏆 <a href="https://doi.org/10.1016/j.scib.2019.12.007" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Gong, P., Chen, B., Li, X., Liu, H., …, **Song, Y.**, …, & Xu, B.</span><br>
   <span style="color: darkblue;">*Science Bulletin*</span>, *65*(3), 182-187, (2020).<br>
 
@@ -263,17 +263,17 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">**Song, Y.**, Huang, B., He, Q., Chen, B., Wei, J., & Mahmood, R.</span><br>
   <span style="color: darkblue;">*Environmental Pollution*</span>, *253*, 288-296, (2019).<br>
 
-- <span style="color: #1A5276;">Evaluating and characterizing urban vibrancy using spatial big data: Shanghai as a case study.</span> <a href="https://doi.org/10.1177/2399808319828730" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Evaluating and characterizing urban vibrancy using spatial big data: Shanghai as a case study.</span> 🏆 <a href="https://doi.org/10.1177/2399808319828730" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Huang, B., Zhou, Y., Li, Z., **Song, Y.**, Cai, J., & Tu, W.</span><br>
   <span style="color: darkblue;">*Environment and Planning B: Urban Analytics and City Science*</span>, *47*(9), 1543-1559, (2019).<br>
 
 ### **2018**
 
-- <span style="color: #1A5276;">Spatial and temporal variations of spatial population accessibility to public hospitals: A case study of rural-urban comparison.</span> <a href="https://doi.org/10.1080/15481603.2018.1446713" target="_blank">[Link]</a><br>
-  <span style="color: #626567;">Song, Y., Tan, Y., **Song, Y.**, Wu, P., Cheng, J. C., Kim, M. J., & Wang, X.</span>🏆<br>
+- <span style="color: #1A5276;">Spatial and temporal variations of spatial population accessibility to public hospitals: A case study of rural-urban comparison.</span> 🏆 <a href="https://doi.org/10.1080/15481603.2018.1446713" target="_blank">[Link]</a><br>
+  <span style="color: #626567;">Song, Y., Tan, Y., **Song, Y.**, Wu, P., Cheng, J. C., Kim, M. J., & Wang, X.</span><br>
   <span style="color: darkblue;">*GIScience & Remote Sensing*</span>, *55*(5), 718-744, (2018).<br>
 
-- <span style="color: #1A5276;">Urban land-use mapping using a deep convolutional neural network with high spatial resolution multispectral remote sensing imagery.</span> <a href="https://doi.org/10.1016/j.rse.2018.04.050" target="_blank">[Link]</a>🏆<br>
+- <span style="color: #1A5276;">Urban land-use mapping using a deep convolutional neural network with high spatial resolution multispectral remote sensing imagery.</span> 🏆 <a href="https://doi.org/10.1016/j.rse.2018.04.050" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Huang, B., Zhao, B., & **Song, Y.**</span><br>
   <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *214*, 73-86, (2018).<br>
 
@@ -291,7 +291,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
 
 ### **2017**
 
-- <span style="color: #1A5276;">Using multi-source geospatial big data to identify the structure of polycentric cities.</span> <a href="https://doi.org/10.1016/j.rse.2017.06.039" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Using multi-source geospatial big data to identify the structure of polycentric cities.</span> 🏆 <a href="https://doi.org/10.1016/j.rse.2017.06.039" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Cai, J., Huang, B.<sup>\*</sup>, & **Song, Y**<sup>\*</sup>.</span><br>
   <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *202*, 210-221, (2017).<br>
 
