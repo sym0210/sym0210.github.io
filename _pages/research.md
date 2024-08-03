@@ -6,20 +6,17 @@ author_profile: true
 ---
 
 
-1. Where are people at different times?
+# 1. Where are people at different times?
+### Dynamic Population Mapping
+### Inter-city Population Mobility Prediction
 
-# Dynamic Population Mapping
-# Inter-city Population Mobility Prediction
+# 2. How are people exposed to environments?
+### Population Environmental Exposure Assessment
+### Environmental Exposure Injustice Assessment
 
-2. How are people exposed to environments?
-
-# Population Environmental Exposure Assessment
-# Environmental Exposure Injustice Assessment
-
-3. What are the health effects of environmental exposure?
-
-# Association Between Environmental Exposure and Health
-# Health Burden of Environmental Exposure
+# 3. What are the health effects of environmental exposure?
+### Association Between Environmental Exposure and Health
+### Health Burden of Environmental Exposure
 
 
 
