@@ -13,7 +13,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">**Song, Y.**<sup>\*</sup>, Wu, S., Chen, B., & Bell, M. L.</span><br>
   <span style="color: darkblue;">*International Journal of Applied Earth Observation and Geoinformation*</span>, *130*, 103882, (2024).<br>
 
-- <span style="color: #1A5276;">Observed inequality in urban greenspace exposure in China.</span> <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Observed inequality in urban greenspace exposure in China.</span> <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">[Link]</a>🏆<br>
   <span style="color: #626567;">**Song, Y.**, Chen, B., Ho, C., H., Kwan, M. P., Liu, D., Wang, J., Cai, J., Li, X., Xu, Y., He, Q., Wang, H., Xu, Q., & Song, Y.</span><br>
   <span style="color: darkblue;">*Environment International*</span>, *156*, 106778, (2021).<br>
 
