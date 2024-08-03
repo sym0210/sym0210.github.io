@@ -5,6 +5,28 @@ permalink: /research/
 author_profile: true
 ---
 
+
+1. Where are people at different times?
+
+# Dynamic Population Mapping
+# Inter-city Population Mobility Prediction
+
+2. How are people exposed to environments?
+
+# Population Environmental Exposure Assessment
+# Environmental Exposure Injustice Assessment
+
+3. What are the health effects of environmental exposure?
+
+# Association Between Environmental Exposure and Health
+# Health Burden of Environmental Exposure
+
+
+
+
+
+
+
 ***Mobility***
 We analyze longitudinal series of pervasive data collected on mobile communication databases (smart phones, twitter logs, facebook, etc.) to generate estimates of urban mobility and use of the space.
 
