@@ -11,6 +11,10 @@ My name is Yimeng SONG, currently a Postdoctoral Associate at Yale. My research 
 
 🦧 News:
 ------
+- (31/07/2024): **[Talk]** Dr. Yimeng Song was invited to give a presentation on 'Leveraging New Geospatial Big Data and Computational Methods to Investigate Environment and human health interactions' at Data-Driven EnviroLab, The University of North Carolina at Chapel Hill.<br>
+
+- (20/07/2024): **[Award]** Our paper titled <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">'Observed inequality in urban greenspace exposure in China'</a> has been recognized as an ESI Highly Cited Paper! 🏆 .<br>
+
 - (02/07/2024): **[Paper]** As a co-author, our article titled <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">'A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice'</a> has been published in *Environmental Research*.<br>
 
 - (03/05/2024): **[Paper]** As the lead author, our article titled <a href="https://doi.org/10.1016/j.jag.2024.103882" target="_blank">'Unraveling near real-time spatial dynamics of population using geographical ensemble learning'</a> has been published in *International Journal of Applied Earth Observation and Geoinformation*.<br>
