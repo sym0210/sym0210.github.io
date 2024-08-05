@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <sup>\*</sup> : Corresponding Author. <sup>\#</sup> : Co-first author.<br>
-Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAAAJ&hl=en" target="_blank">Google Scholar</a> = <span style="color: #1A5276;">11681</span> by July 2024<br>
+Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAAAJ&hl=en" target="_blank">Google Scholar</a> = <span style="color: #1A5276;">12022</span> by August 2024<br>
 
 
 ### ***Featured Publications***<br>
@@ -195,7 +195,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">Wu, W., Yao, Y., **Song, Y.**, He, D., & Wang, Y.</span><br>
   <span style="color: darkblue;">*Urban Forestry & Urban Greening*</span>, *62*, 127161, (2021).<br>
 
-- <span style="color: #1A5276;">Ambient particulate matter (PM, PM, PM) and childhood pneumonia: The smaller particle, the greater short-term impact?</span> <a href="https://doi.org/10.1016/j.scitotenv.2021.145509" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Ambient particulate matter (PM1, PM2.5, PM10) and childhood pneumonia: The smaller particle, the greater short-term impact?</span> <a href="https://doi.org/10.1016/j.scitotenv.2021.145509" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Wang, X., Xu, Z., Su, H., Ho, H. C., **Song, Y.**, Zheng, H., Hossain, M., Z., Khan, M., F., Bogale, F., Wei, J., & Cheng, J.</span><br>
   <span style="color: darkblue;">*Science of the Total Environment*</span>, *772*, 145509, (2021).<br>
 
@@ -299,3 +299,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
 - <span style="color: #1A5276;">Delineating urbanicity and rurality: Impact on environmental exposure assessment.</span> <br>
   <span style="color: #626567;">**Song, Y.**<sup>\*</sup>, Deziel, N. C., & Bell, M. L.</span><br>
   <span style="color: darkblue;">*Environmental Science & Technology*</span>, (2024).<br>
+
+- <span style="color: #1A5276;">Exploration of an Algorithm to Investigate Racial/Ethnic and Gender Disparities in Scientific Authorship.</span> <br>
+  <span style="color: #626567;">**Song, Y.**<sup>\*</sup>, Dasgupta, N., & Bell, M. L.</span><br>
+  <span style="color: darkblue;">*American Journal of Public Health*</span>, (2024).<br>
