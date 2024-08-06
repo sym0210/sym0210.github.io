@@ -11,13 +11,24 @@ My name is Yimeng SONG, currently a Postdoctoral Associate at Yale. My research 
 
 🦧 News:
 ------
-- (31/07/2024): **[Talk]** Dr. Yimeng Song was invited to give a presentation on 'Leveraging New Geospatial Big Data and Computational Methods to Investigate Environment and human health interactions' at Data-Driven EnviroLab, The University of North Carolina at Chapel Hill.<br>
+- (31/07/2024): **[Talk]** Dr. Yimeng Song was invited to give a presentation titled <a href="https://datadrivenlab.org/events/" target="_blank">'Leveraging New Geospatial Big Data and Computational Methods to Investigate Environment and Human Health Interactions'</a> at the Data-Driven EnviroLab, University of North Carolina at Chapel Hill.<br>
 
 - (20/07/2024): **[Award]** Our paper titled <a href="https://doi.org/10.1016/j.envint.2021.106778" target="_blank">'Observed inequality in urban greenspace exposure in China'</a> has been recognized as an ESI Highly Cited Paper! 🏆 .<br>
 
 - (02/07/2024): **[Paper]** As a co-author, our article titled <a href="https://doi.org/10.1016/j.envres.2024.119550" target="_blank">'A systematic review of animal feeding operations including concentrated animal feeding operations (CAFOs) for exposure, health outcomes, and environmental justice'</a> has been published in *Environmental Research*.<br>
 
 - (03/05/2024): **[Paper]** As the lead author, our article titled <a href="https://doi.org/10.1016/j.jag.2024.103882" target="_blank">'Unraveling near real-time spatial dynamics of population using geographical ensemble learning'</a> has been published in *International Journal of Applied Earth Observation and Geoinformation*.<br>
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
