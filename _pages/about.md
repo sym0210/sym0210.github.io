@@ -7,8 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yimeng SONG, currently a Postdoctoral Associate at Yale. My research interests lie primarily at the intersection of geospatial science (particularly geospatial big data and GeoAI) and environmental health. I received my PhD from The Chinese University of Hong Kong in 2019. Before joining Yale in July 2022, I served as a Research Assistant Professor at The Hong Kong Polytechnic University. 
+My name is Yimeng SONG, currently a Postdoctoral Associate at Yale. My research interests lie primarily at the intersection of geospatial science (particularly geospatial big data and GeoAI) and environmental health. I received my PhD from The Chinese University of Hong Kong in 2019. Before joining Yale in July 2022, I served as a Research Assistant Professor at The Hong Kong Polytechnic University. <br>
 
+My research interests include <br> 
+- **Population Mapping & Human Mobility** <br> 
+- **Environmental Exposure & Injustice** <br>
+- **Health Geography & Environmental Epidemiology** <br>
+
+ <br>
+ 
 🦧 News:
 ------
 - (31/07/2024): **[Talk]** Dr. Yimeng Song was invited to give a presentation titled <a href="https://datadrivenlab.org/events/" target="_blank">'Leveraging New Geospatial Big Data and Computational Methods to Investigate Environment and Human Health Interactions'</a> at the Data-Driven EnviroLab, University of North Carolina at Chapel Hill.<br>
