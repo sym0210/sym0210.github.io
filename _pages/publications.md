@@ -221,7 +221,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">Liu, D., Kwan, M. P., Kan, Z. & **Song, Y.**</span><br>
   <span style="color: darkblue;">*The Geographical Journal*</span>, *187*(2), 110-126, (2021).<br>
 
-- <span style="color: #1A5276;">Intraday effects of ambient PM on emergency department visits in Guangzhou, China: a case-crossover study.</span> <a href="https://doi.org/10.1016/j.scitotenv.2020.142347" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Intraday effects of ambient PM on emergency department visits in Guangzhou, China: a case-crossover study.</span> 🏆 <a href="https://doi.org/10.1016/j.scitotenv.2020.142347" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Liu, L., Song, F., Fang, J., Wei, J., Ho, H. C., **Song, Y.**, Zhang, Y., Wang, L., Hu, C., & Zhang. Y.</span><br>
   <span style="color: darkblue;">*Science of the Total Environment*</span>, *750*, 142347, (2021).<br>
 
@@ -275,7 +275,7 @@ Total citations in <a href="https://scholar.google.com/citations?user=gDnxYSgAAA
   <span style="color: #626567;">Song, Y., Tan, Y., **Song, Y.**, Wu, P., Cheng, J. C., Kim, M. J., & Wang, X.</span><br>
   <span style="color: darkblue;">*GIScience & Remote Sensing*</span>, *55*(5), 718-744, (2018).<br>
 
-- <span style="color: #1A5276;">Urban land-use mapping using a deep convolutional neural network with high spatial resolution multispectral remote sensing imagery.</span> 🏆 <a href="https://doi.org/10.1016/j.rse.2018.04.050" target="_blank">[Link]</a><br>
+- <span style="color: #1A5276;">Urban land-use mapping using a deep convolutional neural network with high spatial resolution multispectral remote sensing imagery.</span> 🏆🔥 <a href="https://doi.org/10.1016/j.rse.2018.04.050" target="_blank">[Link]</a><br>
   <span style="color: #626567;">Huang, B., Zhao, B., & **Song, Y.**</span><br>
   <span style="color: darkblue;">*Remote Sensing of Environment*</span>, *214*, 73-86, (2018).<br>
 
