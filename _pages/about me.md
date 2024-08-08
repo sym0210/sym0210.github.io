@@ -9,23 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-🌏 Education:
-------
+### 🌏 Education:
 - 2019: **Ph.D.** in Geography and Resource Management, *The Chinese University of Hong Kong*
 - 2018: **Visiting Ph.D. Student**, *University of Illinois at Urbana-Champaign*
 - 2014: **M.Sc.** in Geo-Information Science, *The Chinese University of Hong Kong*
 - 2012: **B.A.** in Economics, *Peking University*
 - 2012: **B.Eng.** in Land Resources Management, *China University of Geosciences (Beijing)*
   
-🌴 Professional Appointments:
-------
+### 🌴Professional Appointments:
 - 2022 – now: **Postdoctoral Associate**, *Yale University*
 - 2021 – 2022: **Research Assistant Professor**, *The Hong Kong Polytechnic University*
 - 2019 – 2021: **Postdoctoral Fellow**, *The University of Hong Kong*
 - 2014 – 2015: **Research Assistant**, *The Chinese University of Hong Kong*
 
-🦧 Honors & Awards:
-------
+### 🦧 Honors & Awards:
 - 2023: **World's Top 2% Scientists' List**, *Stanford University/Elsevier*
 - 2023: **IJERPH 2023 Travel Award**, *International Journal of Environmental Research and Public Health* (CHF 500)
 - 2019: **Best Tutor Award**, *The Chinese University of Hong Kongr* (HKD 1,000)
