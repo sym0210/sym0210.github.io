@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## 🌏 Education:
+### 🌏 Education:
 - 2019: **Ph.D.** in Geography and Resource Management, *The Chinese University of Hong Kong*
 - 2018: **Visiting Ph.D. Student**, *University of Illinois at Urbana-Champaign*
 - 2014: **M.Sc.** in Geo-Information Science, *The Chinese University of Hong Kong*
